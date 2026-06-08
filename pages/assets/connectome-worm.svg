@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker></defs>
+<rect x="2" y="2" width="756" height="326" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">뇌 전체의 배선도를 아는 유일한 동물 — 그 배선만 옮겼더니 똑같이 움직였다</text>
+<path d="M60,170 Q60,170 85.0,160.0 Q110,150 137.5,145.0 Q165,140 195.0,144.0 Q225,148 255.0,156.5 Q285,165 307.5,157.5 T330,150" fill="none" stroke="#F3E7D6" stroke-width="30" stroke-linecap="round"/>
+<path d="M60,170 Q60,170 85.0,160.0 Q110,150 137.5,145.0 Q165,140 195.0,144.0 Q225,148 255.0,156.5 Q285,165 307.5,157.5 T330,150" fill="none" stroke="#2A2A2A" stroke-width="1.2" opacity="0.4"/>
+<circle cx="60" cy="170" r="13" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.1" opacity="0.6"/>
+<line x1="60" y1="170" x2="79" y2="169" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="60" y1="170" x2="98" y2="158" stroke="#3B6EA5" stroke-width="0.7" opacity="0.6"/>
+<line x1="79" y1="169" x2="98" y2="158" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="98" y1="158" x2="118" y2="144" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="98" y1="158" x2="140" y2="138" stroke="#3B6EA5" stroke-width="0.7" opacity="0.6"/>
+<line x1="118" y1="144" x2="140" y2="138" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="140" y1="138" x2="161" y2="142" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="140" y1="138" x2="183" y2="149" stroke="#3B6EA5" stroke-width="0.7" opacity="0.6"/>
+<line x1="161" y1="142" x2="183" y2="149" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="183" y1="149" x2="207" y2="148" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="183" y1="149" x2="230" y2="144" stroke="#3B6EA5" stroke-width="0.7" opacity="0.6"/>
+<line x1="207" y1="148" x2="230" y2="144" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="230" y1="144" x2="253" y2="151" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="230" y1="144" x2="276" y2="165" stroke="#3B6EA5" stroke-width="0.7" opacity="0.6"/>
+<line x1="253" y1="151" x2="276" y2="165" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="276" y1="165" x2="295" y2="168" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="276" y1="165" x2="313" y2="157" stroke="#3B6EA5" stroke-width="0.7" opacity="0.6"/>
+<line x1="295" y1="168" x2="313" y2="157" stroke="#3B6EA5" stroke-width="1"/>
+<line x1="313" y1="157" x2="330" y2="143" stroke="#3B6EA5" stroke-width="1"/>
+<circle cx="60" cy="170" r="3.4" fill="#B5651D"/>
+<circle cx="79" cy="169" r="3.4" fill="#B5651D"/>
+<circle cx="98" cy="158" r="3.4" fill="#B5651D"/>
+<circle cx="118" cy="144" r="3.4" fill="#B5651D"/>
+<circle cx="140" cy="138" r="3.4" fill="#B5651D"/>
+<circle cx="161" cy="142" r="3.4" fill="#B5651D"/>
+<circle cx="183" cy="149" r="3.4" fill="#B5651D"/>
+<circle cx="207" cy="148" r="3.4" fill="#B5651D"/>
+<circle cx="230" cy="144" r="3.4" fill="#B5651D"/>
+<circle cx="253" cy="151" r="3.4" fill="#B5651D"/>
+<circle cx="276" cy="165" r="3.4" fill="#B5651D"/>
+<circle cx="295" cy="168" r="3.4" fill="#B5651D"/>
+<circle cx="313" cy="157" r="3.4" fill="#B5651D"/>
+<circle cx="330" cy="143" r="3.4" fill="#B5651D"/>
+<text x="165" y="225" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">예쁜꼬마선충 (C. elegans)</text>
+<text x="165" y="243" text-anchor="middle" font-size="10.5" fill="#7A7268">신경 302개 · 시냅스 ~7000개</text>
+<line x1="350" y1="160" x2="430" y2="160" stroke="#2A2A2A" stroke-width="2" marker-end="url(#ar)"/>
+<text x="390" y="150" text-anchor="middle" font-size="11" fill="#7A7268">배선도를</text>
+<text x="390" y="180" text-anchor="middle" font-size="11" fill="#7A7268">그대로 이식</text>
+<rect x="540" y="140" width="120" height="86" rx="8" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.8"/>
+<circle cx="600" cy="134" r="8" fill="#3B6EA5" stroke="#2A2A2A" stroke-width="1.4"/>
+<line x1="600" y1="126" x2="600" y2="140" stroke="#2A2A2A" stroke-width="1.4"/>
+<text x="600" y="118" text-anchor="middle" font-size="10" fill="#7A7268">소나(코)</text>
+<rect x="556" y="158" width="88" height="26" rx="4" fill="#F3E7D6" stroke="#7A7268" stroke-width="1"/>
+<text x="600" y="176" text-anchor="middle" font-size="10.5" fill="#2A2A2A">connectome</text>
+<circle cx="564" cy="226" r="13" fill="#7A7268" stroke="#2A2A2A" stroke-width="1.6"/>
+<circle cx="636" cy="226" r="13" fill="#7A7268" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="600" y="260" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">레고 로봇</text>
+<text x="380.0" y="316" text-anchor="middle" font-size="11.5" fill="#7A7268">코를 건드리면 멈추고, 뒤를 건드리면 앞으로 — 프로그램한 적 없는 행동이 '배선'에서 저절로 나왔다</text>
+</svg>
