@@ -1,32 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 868 740" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
 <rect x="2" y="2" width="864" height="736" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
 <line x1="70" y1="63" x2="70" y2="125" stroke="#B5651D" stroke-width="3"/>
+<line x1="70" y1="63" x2="486" y2="125" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="70" y1="63" x2="746" y2="125" stroke="#C9BFA8" stroke-width="1.5"/>
 <line x1="70" y1="155" x2="70" y2="217" stroke="#B5651D" stroke-width="3"/>
+<line x1="70" y1="155" x2="174" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="70" y1="155" x2="278" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
 <line x1="70" y1="247" x2="70" y2="309" stroke="#B5651D" stroke-width="3"/>
+<line x1="70" y1="247" x2="174" y2="309" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="70" y1="247" x2="278" y2="309" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="70" y1="247" x2="382" y2="309" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="70" y1="247" x2="486" y2="309" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="70" y1="247" x2="590" y2="309" stroke="#C9BFA8" stroke-width="1.5"/>
 <line x1="70" y1="339" x2="70" y2="401" stroke="#B5651D" stroke-width="3"/>
+<line x1="70" y1="339" x2="174" y2="401" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="70" y1="339" x2="278" y2="401" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="70" y1="339" x2="382" y2="401" stroke="#C9BFA8" stroke-width="1.5"/>
 <line x1="70" y1="431" x2="70" y2="493" stroke="#B5651D" stroke-width="3"/>
 <line x1="70" y1="523" x2="70" y2="585" stroke="#B5651D" stroke-width="3"/>
 <line x1="70" y1="615" x2="70" y2="677" stroke="#C9BFA8" stroke-width="1.5"/>
 <line x1="70" y1="615" x2="174" y2="677" stroke="#C9BFA8" stroke-width="1.5"/>
 <line x1="70" y1="615" x2="278" y2="677" stroke="#C9BFA8" stroke-width="1.5"/>
 <line x1="70" y1="615" x2="382" y2="677" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="339" x2="174" y2="401" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="339" x2="278" y2="401" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="339" x2="382" y2="401" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="247" x2="174" y2="309" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="247" x2="278" y2="309" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="247" x2="382" y2="309" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="247" x2="486" y2="309" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="247" x2="590" y2="309" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="155" x2="174" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="155" x2="278" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="63" x2="174" y2="125" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="174" y1="155" x2="382" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="174" y1="155" x2="486" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="174" y1="155" x2="590" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="70" y1="63" x2="278" y2="125" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="278" y1="155" x2="694" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
-<line x1="278" y1="155" x2="798" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="486" y1="155" x2="382" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="486" y1="155" x2="486" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="486" y1="155" x2="590" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="746" y1="155" x2="694" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
+<line x1="746" y1="155" x2="798" y2="217" stroke="#C9BFA8" stroke-width="1.5"/>
 <rect x="33.0" y="33" width="74.0" height="30" rx="7" fill="#F3E7D6" stroke="#B5651D" stroke-width="2"/>
 <text x="70" y="53" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">인공지능</text>
 <rect x="33.0" y="125" width="74.0" height="30" rx="7" fill="#F3E7D6" stroke="#B5651D" stroke-width="2"/>
@@ -69,16 +69,16 @@
 <text x="174" y="237" text-anchor="middle" font-size="13" fill="#7A7268">Greedy</text>
 <rect x="254.0" y="217" width="48.0" height="30" rx="7" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
 <text x="278" y="237" text-anchor="middle" font-size="13" fill="#7A7268">A*</text>
-<rect x="150.0" y="125" width="48.0" height="30" rx="7" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
-<text x="174" y="145" text-anchor="middle" font-size="13" fill="#2A2A2A">탐색</text>
+<rect x="462.0" y="125" width="48.0" height="30" rx="7" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="486" y="145" text-anchor="middle" font-size="13" fill="#2A2A2A">탐색</text>
 <rect x="358.0" y="217" width="48.0" height="30" rx="7" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
 <text x="382" y="237" text-anchor="middle" font-size="13" fill="#7A7268">BFS</text>
 <rect x="462.0" y="217" width="48.0" height="30" rx="7" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
 <text x="486" y="237" text-anchor="middle" font-size="13" fill="#7A7268">DFS</text>
 <rect x="566.0" y="217" width="48.0" height="30" rx="7" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
 <text x="590" y="237" text-anchor="middle" font-size="13" fill="#7A7268">DP</text>
-<rect x="234.0" y="125" width="88.0" height="30" rx="7" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
-<text x="278" y="145" text-anchor="middle" font-size="13" fill="#2A2A2A">지식·추론</text>
+<rect x="702.0" y="125" width="88.0" height="30" rx="7" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="746" y="145" text-anchor="middle" font-size="13" fill="#2A2A2A">지식·추론</text>
 <rect x="670.0" y="217" width="48.0" height="30" rx="7" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
 <text x="694" y="237" text-anchor="middle" font-size="13" fill="#7A7268">논리</text>
 <rect x="774.0" y="217" width="48.0" height="30" rx="7" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 320" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+  <rect x="2" y="2" width="716" height="316" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+  <text x="360" y="38" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">'행동하면 충분한가' vs '진짜 이해해야 하는가'</text>
+
+  <!-- 약한 AI -->
+  <rect x="40" y="70" width="300" height="210" rx="10" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+  <text x="190" y="104" text-anchor="middle" font-size="15" fill="#2A2A2A" font-weight="bold">약한 AI</text>
+  <text x="190" y="132" text-anchor="middle" font-size="12.5" fill="#B5651D">지능적으로 행동하면 충분</text>
+  <text x="64" y="166" font-size="12.5" fill="#2A2A2A">· 바둑을 이긴다</text>
+  <text x="64" y="190" font-size="12.5" fill="#2A2A2A">· 고양이를 알아본다</text>
+  <text x="64" y="214" font-size="12.5" fill="#2A2A2A">· 외국어를 번역한다</text>
+  <text x="190" y="252" text-anchor="middle" font-size="12" fill="#7A7268">오늘날 거의 모든 AI</text>
+
+  <!-- 강한 AI -->
+  <rect x="380" y="70" width="300" height="210" rx="10" fill="#E9EEF5" stroke="#3B6EA5" stroke-width="1.8"/>
+  <text x="530" y="104" text-anchor="middle" font-size="15" fill="#2A2A2A" font-weight="bold">강한 AI</text>
+  <text x="530" y="132" text-anchor="middle" font-size="12.5" fill="#3B6EA5">진짜로 이해·마음·의식을 가진다</text>
+  <text x="404" y="170" font-size="12.5" fill="#2A2A2A">· "정말 이해하는가?"</text>
+  <text x="404" y="196" font-size="12.5" fill="#2A2A2A">· 마음·의식의 문제</text>
+  <text x="530" y="240" text-anchor="middle" font-size="12" fill="#7A7268">아직 증명도 반증도 안 된</text>
+  <text x="530" y="260" text-anchor="middle" font-size="12" fill="#7A7268">철학적 주장</text>
+</svg>

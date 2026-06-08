@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+  <rect x="2" y="2" width="716" height="396" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+  <text x="360" y="38" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">두 축으로 나뉘는 인공지능의 네 가지 정의</text>
+
+  <!-- 열 머리글 -->
+  <text x="320" y="92" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">사람처럼</text>
+  <text x="560" y="92" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">합리적으로</text>
+  <!-- 행 머리글 -->
+  <text x="120" y="172" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">생각하기</text>
+  <text x="120" y="300" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">행동하기</text>
+
+  <!-- 셀 -->
+  <rect x="200" y="110" width="240" height="120" rx="8" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+  <text x="320" y="160" text-anchor="middle" font-size="14" fill="#2A2A2A">① 인지 모델링</text>
+  <text x="320" y="184" text-anchor="middle" font-size="12" fill="#7A7268">사람처럼 생각하는 기계</text>
+
+  <rect x="440" y="110" width="240" height="120" rx="8" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+  <text x="560" y="160" text-anchor="middle" font-size="14" fill="#2A2A2A">② 사고의 법칙</text>
+  <text x="560" y="184" text-anchor="middle" font-size="12" fill="#7A7268">논리적으로 생각하는 기계</text>
+
+  <rect x="200" y="230" width="240" height="120" rx="8" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+  <text x="320" y="280" text-anchor="middle" font-size="14" fill="#2A2A2A">③ 튜링 테스트</text>
+  <text x="320" y="304" text-anchor="middle" font-size="12" fill="#7A7268">사람처럼 행동하는 기계</text>
+
+  <rect x="440" y="230" width="240" height="120" rx="8" fill="#B5651D" stroke="#2A2A2A" stroke-width="2"/>
+  <text x="560" y="280" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">④ 합리적 에이전트</text>
+  <text x="560" y="304" text-anchor="middle" font-size="12" fill="#F3E7D6">최선으로 행동하는 기계</text>
+
+  <text x="560" y="372" text-anchor="middle" font-size="12" fill="#B5651D">← 오늘날 AI의 주류 관점</text>
+</svg>
