@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<rect x="2" y="2" width="756" height="326" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="36" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">전제가 참이면 결론도 반드시 참인가? — 타당한 규칙과 닮은꼴 오류</text>
+<rect x="40" y="64" width="680" height="70" rx="9" fill="#FFFFFF" stroke="#E7DFCB" stroke-width="1.2"/>
+<rect x="40" y="64" width="8" height="70" rx="3" fill="#4E7A51"/>
+<text x="68" y="92" font-size="14" fill="#2A2A2A" font-weight="bold">모더스 포넨스</text>
+<text x="68" y="114" font-size="13" fill="#2A2A2A">P → Q,  그리고 P  ⟹  Q</text>
+<text x="320" y="92" font-size="12" fill="#7A7268">비 오면 젖는다 · 비 온다  ⟹  젖었다</text>
+<text x="694" y="108" text-anchor="middle" font-size="26" fill="#4E7A51">✓</text>
+<rect x="40" y="148" width="680" height="70" rx="9" fill="#FFFFFF" stroke="#E7DFCB" stroke-width="1.2"/>
+<rect x="40" y="148" width="8" height="70" rx="3" fill="#4E7A51"/>
+<text x="68" y="176" font-size="14" fill="#2A2A2A" font-weight="bold">모더스 톨렌스</text>
+<text x="68" y="198" font-size="13" fill="#2A2A2A">P → Q,  그리고 ¬Q  ⟹  ¬P</text>
+<text x="320" y="176" font-size="12" fill="#7A7268">비 오면 젖는다 · 안 젖었다  ⟹  비 안 왔다</text>
+<text x="694" y="192" text-anchor="middle" font-size="26" fill="#4E7A51">✓</text>
+<rect x="40" y="232" width="680" height="70" rx="9" fill="#FFFFFF" stroke="#E7DFCB" stroke-width="1.2"/>
+<rect x="40" y="232" width="8" height="70" rx="3" fill="#B5495B"/>
+<text x="68" y="260" font-size="14" fill="#2A2A2A" font-weight="bold">후건 긍정의 오류</text>
+<text x="68" y="282" font-size="13" fill="#2A2A2A">P → Q,  그리고 Q  ⟹  P (?)</text>
+<text x="320" y="260" font-size="12" fill="#7A7268">젖었다고 비가 왔다는 보장은 없다 — 스프링클러일 수도</text>
+<text x="694" y="276" text-anchor="middle" font-size="26" fill="#B5495B">✗</text>
+</svg>

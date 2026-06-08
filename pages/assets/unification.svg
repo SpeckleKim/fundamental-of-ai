@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<rect x="2" y="2" width="756" height="326" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="36" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">변수의 짝을 맞춰(단일화) 새 결론을 길어 올린다 — 기계가 스스로 추론하는 엔진</text>
+<rect x="120" y="70" width="300" height="44" rx="8" fill="#F3E7D6" stroke="#B5651D" stroke-width="1.5"/><text x="270.0" y="97.0" text-anchor="middle" font-size="13" fill="#2A2A2A">규칙:  죽는다(X) :- 사람(X)</text>
+<rect x="440" y="70" width="200" height="44" rx="8" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.5"/><text x="540.0" y="97.0" text-anchor="middle" font-size="13" fill="#2A2A2A">사실:  사람(소크라테스)</text>
+<text x="380" y="150" text-anchor="middle" font-size="13.5" fill="#3B6EA5" font-weight="bold">단일화(unification): X = 소크라테스</text>
+<line x1="380" y1="160" x2="380" y2="196" stroke="#2A2A2A" stroke-width="1.6"/><path d="M374,190 L380,200 L386,190 z" fill="#2A2A2A"/>
+<rect x="250" y="206" width="260" height="46" rx="8" fill="#E9EEF5" stroke="#3B6EA5" stroke-width="1.5"/><text x="380.0" y="234.0" text-anchor="middle" font-size="13.5" fill="#2A2A2A">결론:  죽는다(소크라테스)  ✓</text>
+<text x="380.0" y="296" text-anchor="middle" font-size="12" fill="#7A7268">이렇게 반복해 거짓을 이끌어내 반박하는 방식이 분해(resolution) — 7부 Prolog의 심장</text>
+</svg>
