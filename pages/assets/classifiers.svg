@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arr" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B5495B"/></marker></defs>
+<rect x="2" y="2" width="756" height="316" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">특징 공간에 흩어진 점들을, 어떤 '경계선'으로 가를 것인가</text>
+<rect x="20" y="64" width="226" height="200" rx="8" fill="#FFFFFF" stroke="#B5651D" stroke-width="1.6"/><text x="133" y="169" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="133" y="86" text-anchor="middle" font-size="13" fill="#B5651D" font-weight="bold">k-NN: 가까운 이웃 따라</text>
+<circle cx="71" cy="196" r="4.2" fill="#B5495B"/>
+<circle cx="90" cy="177" r="4.2" fill="#B5495B"/>
+<circle cx="80" cy="157" r="4.2" fill="#B5495B"/>
+<circle cx="102" cy="190" r="4.2" fill="#B5495B"/>
+<circle cx="77" cy="170" r="4.2" fill="#B5495B"/>
+<circle cx="99" cy="154" r="4.2" fill="#B5495B"/>
+<rect x="167" y="179" width="8" height="8" fill="#3B6EA5"/>
+<rect x="186" y="159" width="8" height="8" fill="#3B6EA5"/>
+<rect x="171" y="140" width="8" height="8" fill="#3B6EA5"/>
+<rect x="195" y="177" width="8" height="8" fill="#3B6EA5"/>
+<rect x="182" y="192" width="8" height="8" fill="#3B6EA5"/>
+<rect x="160" y="159" width="8" height="8" fill="#3B6EA5"/>
+<polyline points="131,216 126,183 144,157 131,124" fill="none" stroke="#B5651D" stroke-width="2.2"/>
+<text x="133" y="256" text-anchor="middle" font-size="10" fill="#7A7268">들쭉날쭉</text>
+<rect x="267" y="64" width="226" height="200" rx="8" fill="#FFFFFF" stroke="#4E7A51" stroke-width="1.6"/><text x="380" y="169" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="380" y="86" text-anchor="middle" font-size="13" fill="#4E7A51" font-weight="bold">결정 트리: 축 따라 계단</text>
+<circle cx="318" cy="196" r="4.2" fill="#B5495B"/>
+<circle cx="336" cy="177" r="4.2" fill="#B5495B"/>
+<circle cx="327" cy="157" r="4.2" fill="#B5495B"/>
+<circle cx="349" cy="190" r="4.2" fill="#B5495B"/>
+<circle cx="324" cy="170" r="4.2" fill="#B5495B"/>
+<circle cx="346" cy="154" r="4.2" fill="#B5495B"/>
+<rect x="414" y="179" width="8" height="8" fill="#3B6EA5"/>
+<rect x="433" y="159" width="8" height="8" fill="#3B6EA5"/>
+<rect x="418" y="140" width="8" height="8" fill="#3B6EA5"/>
+<rect x="442" y="177" width="8" height="8" fill="#3B6EA5"/>
+<rect x="429" y="192" width="8" height="8" fill="#3B6EA5"/>
+<rect x="407" y="159" width="8" height="8" fill="#3B6EA5"/>
+<polyline points="382,216 382,170 404,170 404,124" fill="none" stroke="#4E7A51" stroke-width="2.2"/>
+<text x="380" y="256" text-anchor="middle" font-size="10" fill="#7A7268">수직·수평만</text>
+<rect x="514" y="64" width="226" height="200" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.6"/><text x="627" y="169" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="627" y="86" text-anchor="middle" font-size="13" fill="#3B6EA5" font-weight="bold">SVM: 가장 넓은 길</text>
+<circle cx="565" cy="196" r="4.2" fill="#B5495B"/>
+<circle cx="584" cy="177" r="4.2" fill="#B5495B"/>
+<circle cx="574" cy="157" r="4.2" fill="#B5495B"/>
+<circle cx="596" cy="190" r="4.2" fill="#B5495B"/>
+<circle cx="571" cy="170" r="4.2" fill="#B5495B"/>
+<circle cx="593" cy="154" r="4.2" fill="#B5495B"/>
+<rect x="661" y="179" width="8" height="8" fill="#3B6EA5"/>
+<rect x="680" y="159" width="8" height="8" fill="#3B6EA5"/>
+<rect x="665" y="140" width="8" height="8" fill="#3B6EA5"/>
+<rect x="689" y="177" width="8" height="8" fill="#3B6EA5"/>
+<rect x="676" y="192" width="8" height="8" fill="#3B6EA5"/>
+<rect x="654" y="159" width="8" height="8" fill="#3B6EA5"/>
+<line x1="629" y1="229" x2="629" y2="111" stroke="#3B6EA5" stroke-width="2.4"/>
+<line x1="611" y1="229" x2="611" y2="111" stroke="#7A7268" stroke-width="1.2" stroke-dasharray="4,3"/>
+<line x1="647" y1="229" x2="647" y2="111" stroke="#7A7268" stroke-width="1.2" stroke-dasharray="4,3"/>
+<text x="627" y="256" text-anchor="middle" font-size="10" fill="#7A7268">여백 최대</text>
+<text x="380.0" y="310" text-anchor="middle" font-size="11" fill="#7A7268">SVM은 두 무리 사이에 '가장 넓은 길'이 나도록 경계를 그어, 새 점에도 잘 견딘다</text>
+</svg>

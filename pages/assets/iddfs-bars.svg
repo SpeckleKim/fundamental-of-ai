@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arr" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B5495B"/></marker></defs>
+<rect x="2" y="2" width="756" height="326" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">트리의 노드는 마지막 한 겹에 거의 다 몰린다 — 그래서 다시 훑어도 손해가 적다</text>
+<rect x="90" y="264" width="82" height="6" rx="4" fill="#3B6EA5" opacity="0.55"/>
+<text x="131" y="256" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">1</text>
+<text x="131" y="288" text-anchor="middle" font-size="11" fill="#7A7268">깊이 1</text>
+<rect x="192" y="259" width="82" height="11" rx="4" fill="#3B6EA5" opacity="0.55"/>
+<text x="233" y="251" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">2</text>
+<text x="233" y="288" text-anchor="middle" font-size="11" fill="#7A7268">깊이 2</text>
+<rect x="294" y="248" width="82" height="22" rx="4" fill="#3B6EA5" opacity="0.55"/>
+<text x="335" y="240" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">4</text>
+<text x="335" y="288" text-anchor="middle" font-size="11" fill="#7A7268">깊이 3</text>
+<rect x="396" y="225" width="82" height="45" rx="4" fill="#3B6EA5" opacity="0.55"/>
+<text x="437" y="217" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">8</text>
+<text x="437" y="288" text-anchor="middle" font-size="11" fill="#7A7268">깊이 4</text>
+<rect x="498" y="180" width="82" height="90" rx="4" fill="#3B6EA5" opacity="0.55"/>
+<text x="539" y="172" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">16</text>
+<text x="539" y="288" text-anchor="middle" font-size="11" fill="#7A7268">깊이 5</text>
+<rect x="600" y="90" width="82" height="180" rx="4" fill="#B5651D" opacity="1"/>
+<text x="641" y="82" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">32</text>
+<text x="641" y="288" text-anchor="middle" font-size="11" fill="#7A7268">깊이 6</text>
+<text x="641" y="80" text-anchor="middle" font-size="11.5" fill="#B5651D" font-weight="bold">이 한 겹(32)이</text>
+<text x="641" y="96" text-anchor="middle" font-size="11.5" fill="#B5651D" font-weight="bold">윗겹 전부(31)보다 많다</text>
+<text x="380.0" y="316" text-anchor="middle" font-size="11.5" fill="#7A7268">가지가 2개씩 갈리면 1·2·4·8·16·32… 깊어질수록 두 배 — 윗겹 재방문은 거의 공짜인 셈</text>
+</svg>

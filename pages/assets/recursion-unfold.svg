@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arr" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B5495B"/></marker></defs>
+<rect x="2" y="2" width="756" height="336" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">재귀는 '더 작은 자신'을 부르며 내려갔다가, 바닥에서 되짚어 올라온다</text>
+<rect x="70" y="70" width="260" height="32" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.5"/><text x="200" y="91" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold"></text>
+<text x="82" y="91" font-size="12" fill="#2A2A2A" font-weight="bold">(길이 '(a b c))</text>
+<text x="205" y="91" font-size="11.5" fill="#7A7268">= 1 + (길이 '(b c))</text>
+<line x1="90" y1="102" x2="110" y2="112" stroke="#2A2A2A" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="110" y="112" width="260" height="32" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.5"/><text x="240" y="133" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold"></text>
+<text x="122" y="133" font-size="12" fill="#2A2A2A" font-weight="bold">(길이 '(b c))</text>
+<text x="245" y="133" font-size="11.5" fill="#7A7268">= 1 + (길이 '(c))</text>
+<line x1="130" y1="144" x2="150" y2="154" stroke="#2A2A2A" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="150" y="154" width="260" height="32" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.5"/><text x="280" y="175" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold"></text>
+<text x="162" y="175" font-size="12" fill="#2A2A2A" font-weight="bold">(길이 '(c))</text>
+<text x="285" y="175" font-size="11.5" fill="#7A7268">= 1 + (길이 '())</text>
+<line x1="170" y1="186" x2="190" y2="196" stroke="#2A2A2A" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="190" y="196" width="260" height="32" rx="8" fill="#FFFFFF" stroke="#B5495B" stroke-width="1.5"/><text x="320" y="217" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold"></text>
+<text x="202" y="217" font-size="12" fill="#2A2A2A" font-weight="bold">(길이 '())</text>
+<text x="325" y="217" font-size="11.5" fill="#7A7268">= 0  ← 기저 사례(멈춤)</text>
+<text x="470" y="212" font-size="12.5" fill="#4E7A51" font-weight="bold">→ 0</text>
+<line x1="478" y1="200" x2="468" y2="182" stroke="#4E7A51" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="430" y="170" font-size="12.5" fill="#4E7A51" font-weight="bold">→ 1</text>
+<line x1="438" y1="158" x2="428" y2="140" stroke="#4E7A51" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="390" y="128" font-size="12.5" fill="#4E7A51" font-weight="bold">→ 2</text>
+<line x1="398" y1="116" x2="388" y2="98" stroke="#4E7A51" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="350" y="86" font-size="12.5" fill="#B5651D" font-weight="bold">→ 3  (정답!)</text>
+<text x="200" y="300" text-anchor="middle" font-size="11.5" fill="#3B6EA5">내려갈 땐 문제를 잘게 쪼개고…</text>
+<text x="560" y="300" text-anchor="middle" font-size="11.5" fill="#4E7A51">올라올 땐 답을 하나씩 합친다</text>
+<text x="380.0" y="324" text-anchor="middle" font-size="11" fill="#7A7268">반드시 '더 작아진 입력'과 '멈출 기저 사례'가 있어야 무한 반복에 빠지지 않는다</text>
+</svg>

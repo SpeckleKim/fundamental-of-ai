@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arr" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B5495B"/></marker></defs>
+<rect x="2" y="2" width="756" height="356" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">빠르게 푸는 문제(P) · 답을 받으면 빠르게 검산하는 문제(NP), 그리고 그 안의 가장 어려운 핵</text>
+<ellipse cx="360" cy="200" rx="300" ry="130" fill="#EAF1EA" stroke="#4E7A51" stroke-width="2"/>
+<text x="360" y="92" text-anchor="middle" font-size="15" fill="#4E7A51" font-weight="bold">NP — 답을 주면 빠르게 '검산'되는 문제</text>
+<ellipse cx="250" cy="210" rx="140" ry="86" fill="#E9EEF5" stroke="#3B6EA5" stroke-width="2"/>
+<text x="250" y="180" text-anchor="middle" font-size="14" fill="#3B6EA5" font-weight="bold">P</text>
+<text x="250" y="202" text-anchor="middle" font-size="11" fill="#2A2A2A">빠르게 '푸는' 문제</text>
+<text x="250" y="222" text-anchor="middle" font-size="10.5" fill="#7A7268">정렬 · 최단경로</text>
+<ellipse cx="520" cy="210" rx="110" ry="76" fill="#F3DADE" stroke="#B5495B" stroke-width="2"/>
+<text x="540" y="186" text-anchor="middle" font-size="13" fill="#B5495B" font-weight="bold">NP-완전</text>
+<text x="540" y="206" text-anchor="middle" font-size="10.5" fill="#2A2A2A">가장 어려운 무리</text>
+<text x="540" y="224" text-anchor="middle" font-size="10.5" fill="#7A7268">외판원 · SAT · 배낭</text>
+<text x="360" y="342" text-anchor="middle" font-size="12" fill="#7A7268">P ⊆ NP는 분명하지만, 'P = NP인가'(빨리 검산되면 빨리 풀리기도 하나?)는 아직 미해결</text>
+</svg>
