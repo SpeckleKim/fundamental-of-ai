@@ -6,7 +6,9 @@ WikiDocs 등 어디서나 확실히 보이도록 벡터 SVG를 PNG로 굳힌다.
 import sys, os, subprocess, tempfile
 from PIL import Image, ImageChops
 
-def convert(svg):
+MAXW_DEFAULT = 1100
+
+def convert(svg, maxw=MAXW_DEFAULT):
     svg = os.path.abspath(svg)
     base = os.path.splitext(svg)[0]
     outdir = os.path.dirname(svg)
@@ -28,14 +30,20 @@ def convert(svg):
             l, t, r, b = bbox
             comp = comp.crop((max(0, l - pad), max(0, t - pad),
                               min(comp.width, r + pad), min(comp.height, b + pad)))
-        MAXW = 1100   # 화면 밖으로 넘치지 않게 폭 제한
-        if comp.width > MAXW:
-            h = round(comp.height * MAXW / comp.width)
-            comp = comp.resize((MAXW, h), Image.LANCZOS)
+        if comp.width > maxw:   # 화면 밖으로 넘치지 않게 폭 제한
+            h = round(comp.height * maxw / comp.width)
+            comp = comp.resize((maxw, h), Image.LANCZOS)
         comp.save(base + ".png", "PNG")
     print("OK:", base + ".png", Image.open(base + ".png").size)
     return True
 
 if __name__ == "__main__":
-    ok = sum(convert(s) for s in sys.argv[1:] if s.lower().endswith(".svg"))
-    print(f"변환 완료 {ok}/{len(sys.argv)-1}")
+    maxw = MAXW_DEFAULT
+    svgs = []
+    for a in sys.argv[1:]:
+        if a.startswith("maxw="):
+            maxw = int(a.split("=")[1])
+        elif a.lower().endswith(".svg"):
+            svgs.append(a)
+    ok = sum(convert(s, maxw) for s in svgs)
+    print(f"변환 완료 {ok}/{len(svgs)} (maxw={maxw})")
