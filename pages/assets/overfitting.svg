@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker></defs>
+<rect x="2" y="2" width="756" height="316" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">덜 배워도(과소), 외워 버려도(과적합) 탈 난다 — 사이의 '적당함'이 목표</text>
+<rect x="24" y="70" width="226" height="180" rx="8" fill="#FFFFFF" stroke="#B5495B" stroke-width="1.6"/><text x="137" y="165" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="137" y="92" text-anchor="middle" font-size="13" fill="#B5495B" font-weight="bold">과소적합</text>
+<line x1="48" y1="220" x2="234" y2="220" stroke="#7A7268" stroke-width="1"/>
+<line x1="48" y1="220" x2="48" y2="110" stroke="#7A7268" stroke-width="1"/>
+<circle cx="67" cy="187" r="3.6" fill="#3B6EA5"/>
+<circle cx="85" cy="174" r="3.6" fill="#3B6EA5"/>
+<circle cx="104" cy="176" r="3.6" fill="#3B6EA5"/>
+<circle cx="122" cy="160" r="3.6" fill="#3B6EA5"/>
+<circle cx="141" cy="163" r="3.6" fill="#3B6EA5"/>
+<circle cx="160" cy="147" r="3.6" fill="#3B6EA5"/>
+<circle cx="182" cy="150" r="3.6" fill="#3B6EA5"/>
+<circle cx="206" cy="134" r="3.6" fill="#3B6EA5"/>
+<line x1="57" y1="183" x2="234" y2="139" stroke="#B5495B" stroke-width="2.4"/>
+<text x="137" y="240" text-anchor="middle" font-size="10.5" fill="#7A7268">직선 하나로 뭉갬</text>
+<rect x="262" y="70" width="226" height="180" rx="8" fill="#FFFFFF" stroke="#4E7A51" stroke-width="1.6"/><text x="375" y="165" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="375" y="92" text-anchor="middle" font-size="13" fill="#4E7A51" font-weight="bold">적당함(일반화)</text>
+<line x1="286" y1="220" x2="472" y2="220" stroke="#7A7268" stroke-width="1"/>
+<line x1="286" y1="220" x2="286" y2="110" stroke="#7A7268" stroke-width="1"/>
+<circle cx="305" cy="187" r="3.6" fill="#3B6EA5"/>
+<circle cx="323" cy="174" r="3.6" fill="#3B6EA5"/>
+<circle cx="342" cy="176" r="3.6" fill="#3B6EA5"/>
+<circle cx="360" cy="160" r="3.6" fill="#3B6EA5"/>
+<circle cx="379" cy="163" r="3.6" fill="#3B6EA5"/>
+<circle cx="398" cy="147" r="3.6" fill="#3B6EA5"/>
+<circle cx="420" cy="150" r="3.6" fill="#3B6EA5"/>
+<circle cx="444" cy="134" r="3.6" fill="#3B6EA5"/>
+<polyline points="295,187 342,170 388,156 435,141 463,132" fill="none" stroke="#4E7A51" stroke-width="2.4"/>
+<text x="375" y="240" text-anchor="middle" font-size="10.5" fill="#7A7268">흐름을 잡음</text>
+<rect x="500" y="70" width="226" height="180" rx="8" fill="#FFFFFF" stroke="#B5495B" stroke-width="1.6"/><text x="613" y="165" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="613" y="92" text-anchor="middle" font-size="13" fill="#B5495B" font-weight="bold">과적합</text>
+<line x1="524" y1="220" x2="710" y2="220" stroke="#7A7268" stroke-width="1"/>
+<line x1="524" y1="220" x2="524" y2="110" stroke="#7A7268" stroke-width="1"/>
+<circle cx="543" cy="187" r="3.6" fill="#3B6EA5"/>
+<circle cx="561" cy="174" r="3.6" fill="#3B6EA5"/>
+<circle cx="580" cy="176" r="3.6" fill="#3B6EA5"/>
+<circle cx="598" cy="160" r="3.6" fill="#3B6EA5"/>
+<circle cx="617" cy="163" r="3.6" fill="#3B6EA5"/>
+<circle cx="636" cy="147" r="3.6" fill="#3B6EA5"/>
+<circle cx="658" cy="150" r="3.6" fill="#3B6EA5"/>
+<circle cx="682" cy="134" r="3.6" fill="#3B6EA5"/>
+<polyline points="543,187 561,174 580,176 598,160 617,163 636,147 658,150 682,134" fill="none" stroke="#B5495B" stroke-width="2.2"/>
+<text x="613" y="240" text-anchor="middle" font-size="10.5" fill="#7A7268">점을 다 외움</text>
+<text x="380.0" y="306" text-anchor="middle" font-size="11.5" fill="#7A7268">과적합은 훈련 데이터의 잡음까지 외워, 처음 보는 데이터에서 헛디딘다</text>
+</svg>

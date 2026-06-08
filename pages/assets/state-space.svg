@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker></defs>
+<rect x="2" y="2" width="756" height="326" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">문제를 '상태'와 '연산자'로 바꾸면, 푸는 일은 곧 길찾기가 된다</text>
+<rect x="104.0" y="114.0" width="72" height="72" rx="5" fill="#F3E7D6" stroke="#B5651D" stroke-width="1.8"/>
+<rect x="108.0" y="118.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="118" y="132" text-anchor="middle" font-size="11" fill="#2A2A2A">1</text>
+<rect x="130.0" y="118.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="140" y="132" text-anchor="middle" font-size="11" fill="#2A2A2A">2</text>
+<rect x="152.0" y="118.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="162" y="132" text-anchor="middle" font-size="11" fill="#2A2A2A">3</text>
+<rect x="108.0" y="140.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="118" y="154" text-anchor="middle" font-size="11" fill="#2A2A2A">4</text>
+<rect x="152.0" y="140.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="162" y="154" text-anchor="middle" font-size="11" fill="#2A2A2A">5</text>
+<rect x="108.0" y="162.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="118" y="176" text-anchor="middle" font-size="11" fill="#2A2A2A">6</text>
+<rect x="130.0" y="162.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="140" y="176" text-anchor="middle" font-size="11" fill="#2A2A2A">7</text>
+<rect x="152.0" y="162.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="162" y="176" text-anchor="middle" font-size="11" fill="#2A2A2A">8</text>
+<text x="140" y="210" text-anchor="middle" font-size="11.5" fill="#B5651D" font-weight="bold">시작 상태</text>
+<line x1="178" y1="150" x2="286" y2="90" stroke="#7A7268" stroke-width="1.4"/>
+<rect x="294.0" y="54.0" width="72" height="72" rx="5" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.2"/>
+<rect x="298.0" y="58.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="308" y="72" text-anchor="middle" font-size="11" fill="#2A2A2A">1</text>
+<rect x="320.0" y="58.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="330" y="72" text-anchor="middle" font-size="11" fill="#2A2A2A">2</text>
+<rect x="342.0" y="58.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="352" y="72" text-anchor="middle" font-size="11" fill="#2A2A2A">3</text>
+<rect x="320.0" y="80.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="330" y="94" text-anchor="middle" font-size="11" fill="#2A2A2A">4</text>
+<rect x="342.0" y="80.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="352" y="94" text-anchor="middle" font-size="11" fill="#2A2A2A">5</text>
+<rect x="298.0" y="102.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="308" y="116" text-anchor="middle" font-size="11" fill="#2A2A2A">6</text>
+<rect x="320.0" y="102.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="330" y="116" text-anchor="middle" font-size="11" fill="#2A2A2A">7</text>
+<rect x="342.0" y="102.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="352" y="116" text-anchor="middle" font-size="11" fill="#2A2A2A">8</text>
+<text x="330" y="134" text-anchor="middle" font-size="10.5" fill="#7A7268">빈칸 ←</text>
+<line x1="178" y1="150" x2="286" y2="150" stroke="#7A7268" stroke-width="1.4"/>
+<rect x="294.0" y="114.0" width="72" height="72" rx="5" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.2"/>
+<rect x="298.0" y="118.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="308" y="132" text-anchor="middle" font-size="11" fill="#2A2A2A">1</text>
+<rect x="320.0" y="118.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="330" y="132" text-anchor="middle" font-size="11" fill="#2A2A2A">2</text>
+<rect x="342.0" y="118.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="352" y="132" text-anchor="middle" font-size="11" fill="#2A2A2A">3</text>
+<rect x="298.0" y="140.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="308" y="154" text-anchor="middle" font-size="11" fill="#2A2A2A">4</text>
+<rect x="320.0" y="140.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="330" y="154" text-anchor="middle" font-size="11" fill="#2A2A2A">7</text>
+<rect x="342.0" y="140.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="352" y="154" text-anchor="middle" font-size="11" fill="#2A2A2A">5</text>
+<rect x="298.0" y="162.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="308" y="176" text-anchor="middle" font-size="11" fill="#2A2A2A">6</text>
+<rect x="342.0" y="162.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="352" y="176" text-anchor="middle" font-size="11" fill="#2A2A2A">8</text>
+<text x="330" y="194" text-anchor="middle" font-size="10.5" fill="#7A7268">빈칸 ↓</text>
+<line x1="178" y1="150" x2="286" y2="235" stroke="#7A7268" stroke-width="1.4"/>
+<rect x="294.0" y="199.0" width="72" height="72" rx="5" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.2"/>
+<rect x="298.0" y="203.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="308" y="217" text-anchor="middle" font-size="11" fill="#2A2A2A">1</text>
+<rect x="320.0" y="203.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="330" y="217" text-anchor="middle" font-size="11" fill="#2A2A2A">2</text>
+<rect x="342.0" y="203.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="352" y="217" text-anchor="middle" font-size="11" fill="#2A2A2A">3</text>
+<rect x="298.0" y="225.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="308" y="239" text-anchor="middle" font-size="11" fill="#2A2A2A">4</text>
+<rect x="320.0" y="225.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="330" y="239" text-anchor="middle" font-size="11" fill="#2A2A2A">5</text>
+<rect x="298.0" y="247.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="308" y="261" text-anchor="middle" font-size="11" fill="#2A2A2A">6</text>
+<rect x="320.0" y="247.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="330" y="261" text-anchor="middle" font-size="11" fill="#2A2A2A">7</text>
+<rect x="342.0" y="247.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="352" y="261" text-anchor="middle" font-size="11" fill="#2A2A2A">8</text>
+<text x="330" y="279" text-anchor="middle" font-size="10.5" fill="#7A7268">빈칸 →</text>
+<rect x="584.0" y="114.0" width="72" height="72" rx="5" fill="#F3E7D6" stroke="#B5651D" stroke-width="1.8"/>
+<rect x="588.0" y="118.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="598" y="132" text-anchor="middle" font-size="11" fill="#2A2A2A">1</text>
+<rect x="610.0" y="118.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="620" y="132" text-anchor="middle" font-size="11" fill="#2A2A2A">2</text>
+<rect x="632.0" y="118.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="642" y="132" text-anchor="middle" font-size="11" fill="#2A2A2A">3</text>
+<rect x="588.0" y="140.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="598" y="154" text-anchor="middle" font-size="11" fill="#2A2A2A">4</text>
+<rect x="610.0" y="140.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="620" y="154" text-anchor="middle" font-size="11" fill="#2A2A2A">5</text>
+<rect x="632.0" y="140.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="642" y="154" text-anchor="middle" font-size="11" fill="#2A2A2A">6</text>
+<rect x="588.0" y="162.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="598" y="176" text-anchor="middle" font-size="11" fill="#2A2A2A">7</text>
+<rect x="610.0" y="162.0" width="20" height="20" rx="3" fill="#fff" stroke="#7A7268" stroke-width="0.8"/>
+<text x="620" y="176" text-anchor="middle" font-size="11" fill="#2A2A2A">8</text>
+<text x="620" y="210" text-anchor="middle" font-size="11.5" fill="#4E7A51" font-weight="bold">목표 상태</text>
+<line x1="452" y1="90" x2="560" y2="150" stroke="#7A7268" stroke-width="1.2" stroke-dasharray="4,4"/>
+<line x1="452" y1="235" x2="560" y2="150" stroke="#7A7268" stroke-width="1.2" stroke-dasharray="4,4"/>
+<text x="490" y="120" text-anchor="middle" font-size="11" fill="#7A7268">…연산자를 거듭 적용…</text>
+<text x="380.0" y="314" text-anchor="middle" font-size="12" fill="#7A7268">상태(보드 배치) · 연산자(빈칸 밀기) · 목표(정렬). 시작에서 목표까지의 경로를 찾는 일</text>
+</svg>

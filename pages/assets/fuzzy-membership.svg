@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker></defs>
+<rect x="2" y="2" width="756" height="326" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">'차갑다'와 '뜨겁다' 사이엔 칼금이 없다 — 0과 1 사이의 정도로 표현한다</text>
+<line x1="70" y1="260" x2="710" y2="260" stroke="#2A2A2A" stroke-width="1.2"/>
+<line x1="70" y1="74" x2="70" y2="260" stroke="#2A2A2A" stroke-width="1.2"/>
+<text x="62" y="84" text-anchor="end" font-size="11" fill="#7A7268">소속도</text>
+<text x="62" y="264" text-anchor="end" font-size="10" fill="#7A7268">0</text>
+<text x="62" y="90" text-anchor="end" font-size="10" fill="#7A7268">1</text>
+<text x="710" y="280" text-anchor="end" font-size="11" fill="#7A7268">온도 →</text>
+<polyline points="70,80 262,80 358,260" fill="none" stroke="#3B6EA5" stroke-width="2.6"/>
+<text x="166.0" y="68" text-anchor="middle" font-size="12.5" fill="#3B6EA5" font-weight="bold">차갑다</text>
+<polyline points="262,260 390,80 518,260" fill="none" stroke="#4E7A51" stroke-width="2.6"/>
+<text x="390.0" y="68" text-anchor="middle" font-size="12.5" fill="#4E7A51" font-weight="bold">적당</text>
+<polyline points="422,260 518,80 710,80" fill="none" stroke="#B5495B" stroke-width="2.6"/>
+<text x="614.0" y="68" text-anchor="middle" font-size="12.5" fill="#B5495B" font-weight="bold">뜨겁다</text>
+<line x1="326" y1="80" x2="326" y2="260" stroke="#7A7268" stroke-width="1.2" stroke-dasharray="4,4"/>
+<text x="326" y="280" text-anchor="middle" font-size="10.5" fill="#7A7268">이 온도</text>
+<text x="380.0" y="314" text-anchor="middle" font-size="11.5" fill="#7A7268">한 온도가 '차갑다 0.3·적당 0.5'처럼 여러 집합에 동시에, 정도껏 속한다</text>
+</svg>
