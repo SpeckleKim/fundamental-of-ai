@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+  <defs>
+    <marker id="ah2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#3B6EA5"/>
+    </marker>
+  </defs>
+  <rect x="2" y="2" width="716" height="276" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+
+  <text x="360" y="38" text-anchor="middle" font-size="13" fill="#7A7268" font-style="italic">신호는 좁은 틈을 건너 전달되고, 그 '세기'는 경험에 따라 변한다</text>
+
+  <!-- 보내는 뉴런: 축삭 말단 -->
+  <path d="M120,140 L300,140" stroke="#2A2A2A" stroke-width="2.4"/>
+  <path d="M300,140 C340,110 340,170 300,140 M300,140 C345,120 350,160 300,140" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.6"/>
+  <ellipse cx="322" cy="140" rx="30" ry="36" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.6"/>
+  <text x="200" y="125" text-anchor="middle" font-size="12" fill="#B5651D">축삭 말단 (보내는 쪽)</text>
+
+  <!-- 신경전달물질이 건너는 틈 -->
+  <circle cx="368" cy="120" r="4" fill="#3B6EA5"/>
+  <circle cx="378" cy="140" r="4" fill="#3B6EA5"/>
+  <circle cx="368" cy="160" r="4" fill="#3B6EA5"/>
+  <line x1="356" y1="140" x2="430" y2="140" stroke="#3B6EA5" stroke-width="1.6" stroke-dasharray="4 4" marker-end="url(#ah2)"/>
+  <text x="392" y="200" text-anchor="middle" font-size="12" fill="#3B6EA5">시냅스 틈 · 신경전달물질</text>
+
+  <!-- 받는 뉴런: 수상돌기 -->
+  <ellipse cx="470" cy="140" rx="30" ry="40" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+  <path d="M500,140 L600,140" stroke="#2A2A2A" stroke-width="2.4"/>
+  <text x="540" y="125" text-anchor="middle" font-size="12" fill="#B5651D">수상돌기 (받는 쪽)</text>
+
+  <!-- 연결 강도 주석 -->
+  <text x="360" y="245" text-anchor="middle" font-size="12" fill="#2A2A2A">연결 강도(가변) = 학습이 일어나는 자리 → 인공신경망의 '가중치'</text>
+</svg>

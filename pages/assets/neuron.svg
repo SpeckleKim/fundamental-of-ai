@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+  <defs>
+    <marker id="ah" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/>
+    </marker>
+  </defs>
+  <rect x="2" y="2" width="716" height="296" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+
+  <!-- 신호 흐름 주석 -->
+  <text x="360" y="40" text-anchor="middle" font-size="13" fill="#7A7268" font-style="italic">입력을 모두 더하고 → 문턱을 넘으면 → 발화</text>
+
+  <!-- 수상돌기 (입력 가지) -->
+  <g stroke="#2A2A2A" stroke-width="1.6" fill="none">
+    <path d="M70,120 C120,120 150,140 196,150"/>
+    <path d="M64,160 C120,160 150,155 196,152"/>
+    <path d="M74,205 C125,200 155,170 198,158"/>
+    <path d="M92,95 C130,110 160,135 198,148"/>
+    <path d="M40,140 L70,120 M48,118 L70,120 M48,142 L64,160 M58,182 L74,205 M70,86 L92,95"/>
+  </g>
+  <text x="60" y="240" font-size="12" fill="#B5651D">수상돌기 (입력)</text>
+
+  <!-- 세포체 -->
+  <circle cx="232" cy="150" r="38" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.6"/>
+  <text x="232" y="147" text-anchor="middle" font-size="13" fill="#2A2A2A">세포체</text>
+  <text x="232" y="165" text-anchor="middle" font-size="12" fill="#7A7268">∑ 합산</text>
+
+  <!-- 축삭 -->
+  <line x1="270" y1="150" x2="548" y2="150" stroke="#2A2A2A" stroke-width="2.4" marker-end="url(#ah)"/>
+  <text x="400" y="140" text-anchor="middle" font-size="12" fill="#B5651D">축삭 (출력 신호 전달)</text>
+
+  <!-- 축삭 말단 -->
+  <g stroke="#2A2A2A" stroke-width="1.6" fill="none">
+    <path d="M548,150 L578,132"/><path d="M548,150 L582,150"/><path d="M548,150 L578,168"/>
+  </g>
+
+  <!-- 시냅스 + 다음 뉴런 수상돌기 -->
+  <circle cx="592" cy="132" r="4" fill="#3B6EA5"/>
+  <circle cx="596" cy="150" r="4" fill="#3B6EA5"/>
+  <circle cx="592" cy="168" r="4" fill="#3B6EA5"/>
+  <path d="M620,120 C650,135 650,165 620,180" stroke="#2A2A2A" stroke-width="1.6" fill="none"/>
+  <text x="612" y="210" text-anchor="middle" font-size="12" fill="#3B6EA5">시냅스</text>
+  <text x="662" y="153" font-size="11" fill="#7A7268" font-style="italic">다음 뉴런</text>
+</svg>
