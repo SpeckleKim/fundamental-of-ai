@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 420" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<rect x="2" y="2" width="936" height="416" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="470" y="38" text-anchor="middle" font-size="15" fill="#2A2A2A" font-weight="bold">인공지능의 부침 — 기대와 겨울의 반복</text>
+<line x1="60" y1="330" x2="900" y2="330" stroke="#2A2A2A" stroke-width="1.4"/>
+<line x1="60" y1="70" x2="60" y2="330" stroke="#2A2A2A" stroke-width="1.4"/>
+<text x="52" y="80" text-anchor="end" font-size="11" fill="#7A7268">기대·투자</text>
+<text x="172" y="348" text-anchor="middle" font-size="11" fill="#7A7268">1960</text>
+<text x="284" y="348" text-anchor="middle" font-size="11" fill="#7A7268">1970</text>
+<text x="396" y="348" text-anchor="middle" font-size="11" fill="#7A7268">1980</text>
+<text x="508" y="348" text-anchor="middle" font-size="11" fill="#7A7268">1990</text>
+<text x="620" y="348" text-anchor="middle" font-size="11" fill="#7A7268">2000</text>
+<text x="732" y="348" text-anchor="middle" font-size="11" fill="#7A7268">2010</text>
+<text x="844" y="348" text-anchor="middle" font-size="11" fill="#7A7268">2020</text>
+<path d="M 127,285 L 228,125 L 329,275 L 452,130 L 530,280 L 676,210 L 754,150 L 878,90" fill="none" stroke="#B5651D" stroke-width="3" stroke-linejoin="round"/>
+<circle cx="127" cy="285" r="5" fill="#B5651D" stroke="#fff" stroke-width="1.4"/>
+<text x="127" y="307" text-anchor="middle" font-size="11.5" fill="#7A7268">다트머스 회의 (1956)</text>
+<circle cx="228" cy="125" r="5" fill="#B5651D" stroke="#fff" stroke-width="1.4"/>
+<text x="228" y="113" text-anchor="middle" font-size="12" fill="#2A2A2A">황금기</text>
+<circle cx="329" cy="275" r="5" fill="#3B6EA5" stroke="#fff" stroke-width="1.4"/>
+<text x="329" y="297" text-anchor="middle" font-size="12" fill="#3B6EA5" font-weight="bold">첫 번째 겨울</text>
+<circle cx="452" cy="130" r="5" fill="#B5651D" stroke="#fff" stroke-width="1.4"/>
+<text x="452" y="118" text-anchor="middle" font-size="12" fill="#2A2A2A">전문가 시스템 붐</text>
+<circle cx="530" cy="280" r="5" fill="#3B6EA5" stroke="#fff" stroke-width="1.4"/>
+<text x="530" y="302" text-anchor="middle" font-size="12" fill="#3B6EA5" font-weight="bold">두 번째 겨울</text>
+<circle cx="676" cy="210" r="5" fill="#B5651D" stroke="#fff" stroke-width="1.4"/>
+<text x="676" y="198" text-anchor="middle" font-size="12" fill="#2A2A2A">통계적 학습</text>
+<circle cx="754" cy="150" r="5" fill="#B5651D" stroke="#fff" stroke-width="1.4"/>
+<text x="754" y="138" text-anchor="middle" font-size="12" fill="#2A2A2A">딥러닝 (2012)</text>
+<circle cx="878" cy="90" r="5" fill="#B5651D" stroke="#fff" stroke-width="1.4"/>
+<text x="878" y="78" text-anchor="middle" font-size="12" fill="#2A2A2A">LLM</text>
+<text x="470" y="404" text-anchor="middle" font-size="12" fill="#7A7268">과장된 기대 → 한계 → 겨울 → 새로운 접근으로 부활 … 그 반복 속에서도 기초는 남았다</text>
+</svg>
