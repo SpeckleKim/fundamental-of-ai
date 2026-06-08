@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 660" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<rect x="2" y="2" width="996" height="656" rx="16" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="500.0" y="34" text-anchor="middle" font-size="15" fill="#2A2A2A" font-weight="bold">인공지능이라는 한 그루 나무</text>
+<line x1="500" y1="62" x2="165" y2="134" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="500" y1="62" x2="380" y2="134" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="500" y1="62" x2="660" y2="134" stroke="#B5651D" stroke-width="3.4"/>
+<line x1="500" y1="62" x2="880" y2="134" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="165" y1="166" x2="70" y2="232" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="165" y1="166" x2="150" y2="232" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="165" y1="166" x2="260" y2="232" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="260" y1="264" x2="215" y2="322" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="260" y1="264" x2="315" y2="322" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="380" y1="166" x2="355" y2="232" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="380" y1="166" x2="460" y2="232" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="660" y1="166" x2="575" y2="232" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="660" y1="166" x2="720" y2="232" stroke="#B5651D" stroke-width="3.4"/>
+<line x1="720" y1="264" x2="650" y2="324" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="720" y1="264" x2="815" y2="324" stroke="#B5651D" stroke-width="3.4"/>
+<line x1="815" y1="356" x2="840" y2="422" stroke="#B5651D" stroke-width="3.4"/>
+<line x1="840" y1="454" x2="880" y2="524" stroke="#B5651D" stroke-width="3.4"/>
+<rect x="459.0" y="30.0" width="82" height="32" rx="8" fill="#F3E7D6" stroke="#B5651D" stroke-width="2"/>
+<text x="500" y="51" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">인공지능</text>
+<rect x="137.0" y="134.0" width="56" height="32" rx="8" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="165" y="155" text-anchor="middle" font-size="13" fill="#2A2A2A">탐색</text>
+<rect x="331.5" y="134.0" width="97" height="32" rx="8" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="380" y="155" text-anchor="middle" font-size="13" fill="#2A2A2A">지식·추론</text>
+<rect x="632.0" y="134.0" width="56" height="32" rx="8" fill="#F3E7D6" stroke="#B5651D" stroke-width="2"/>
+<text x="660" y="155" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">학습</text>
+<rect x="794.0" y="134.0" width="172" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
+<text x="880" y="155" text-anchor="middle" font-size="13" fill="#7A7268">언어·지각·로봇 …</text>
+<rect x="36.5" y="232.0" width="67" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
+<text x="70" y="253" text-anchor="middle" font-size="13" fill="#7A7268">BFS</text>
+<rect x="116.5" y="232.0" width="67" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
+<text x="150" y="253" text-anchor="middle" font-size="13" fill="#7A7268">DFS</text>
+<rect x="219.0" y="232.0" width="82" height="32" rx="8" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="260" y="253" text-anchor="middle" font-size="13" fill="#2A2A2A">휴리스틱</text>
+<rect x="181.5" y="322.0" width="67" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
+<text x="215" y="343" text-anchor="middle" font-size="13" fill="#7A7268">그리디</text>
+<rect x="287.0" y="322.0" width="56" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
+<text x="315" y="343" text-anchor="middle" font-size="13" fill="#7A7268">A*</text>
+<rect x="306.5" y="232.0" width="97" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
+<text x="355" y="253" text-anchor="middle" font-size="13" fill="#7A7268">논리·규칙</text>
+<rect x="432.0" y="232.0" width="56" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
+<text x="460" y="253" text-anchor="middle" font-size="13" fill="#7A7268">추론</text>
+<rect x="534.0" y="232.0" width="82" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
+<text x="575" y="253" text-anchor="middle" font-size="13" fill="#7A7268">결정트리</text>
+<rect x="656.5" y="232.0" width="127" height="32" rx="8" fill="#F3E7D6" stroke="#B5651D" stroke-width="2"/>
+<text x="720" y="253" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">신경망(NN)</text>
+<rect x="616.5" y="324.0" width="67" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/>
+<text x="650" y="345" text-anchor="middle" font-size="13" fill="#7A7268">CNN</text>
+<rect x="729.0" y="324.0" width="172" height="32" rx="8" fill="#F3E7D6" stroke="#B5651D" stroke-width="2"/>
+<text x="815" y="345" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">자연어처리(NLP)</text>
+<rect x="724.0" y="422.0" width="232" height="32" rx="8" fill="#F3E7D6" stroke="#B5651D" stroke-width="2"/>
+<text x="840" y="443" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">어텐션(Attention)</text>
+<rect x="846.5" y="524.0" width="67" height="32" rx="8" fill="#B5651D" stroke="#2A2A2A" stroke-width="2"/>
+<text x="880" y="545" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">LLM</text>
+<text x="920" y="545" font-size="12" fill="#B5651D">← 우리가 흔히 보는 표면</text>
+<text x="500.0" y="634" text-anchor="middle" font-size="13.5" fill="#2A2A2A">LLM은 이 나무의 한 잎새다. 뿌리와 줄기(탐색·논리·학습·신경망)를 알아야 비로소 그 잎이 보인다.</text>
+</svg>
