@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arb" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3B6EA5"/></marker></defs>
+<rect x="2" y="2" width="756" height="326" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">원인과 결과를 화살표로 잇고, 증거를 받아 거꾸로 의심을 좁힌다</text>
+<ellipse cx="200" cy="90" rx="40" ry="28" fill="#F3E7D6" stroke="#B5651D" stroke-width="1.8"/>
+<text x="200" y="95" text-anchor="middle" font-size="12.5" fill="#2A2A2A" font-weight="bold">비</text>
+<ellipse cx="520" cy="90" rx="58" ry="28" fill="#F3E7D6" stroke="#B5651D" stroke-width="1.8"/>
+<text x="520" y="95" text-anchor="middle" font-size="12.5" fill="#2A2A2A" font-weight="bold">스프링클러</text>
+<ellipse cx="360" cy="220" rx="56" ry="28" fill="#E9EEF5" stroke="#3B6EA5" stroke-width="1.8"/>
+<text x="360" y="225" text-anchor="middle" font-size="12.5" fill="#2A2A2A" font-weight="bold">잔디 젖음</text>
+<line x1="210" y1="116" x2="330" y2="196" stroke="#7A7268" stroke-width="1.6" marker-end="url(#ar)"/>
+<line x1="505" y1="116" x2="395" y2="196" stroke="#7A7268" stroke-width="1.6" marker-end="url(#ar)"/>
+<line x1="252" y1="92" x2="462" y2="92" stroke="#7A7268" stroke-width="1.4" marker-end="url(#ar)"/>
+<text x="357" y="84" text-anchor="middle" font-size="10.5" fill="#7A7268">비 오면 잘 안 켬</text>
+<rect x="540" y="200" width="180" height="86" rx="6" fill="#FFFFFF" stroke="#7A7268" stroke-width="1.1"/>
+<text x="630" y="220" text-anchor="middle" font-size="10.5" fill="#2A2A2A" font-weight="bold">조건부확률표(일부)</text>
+<text x="550" y="240" font-size="10.5" fill="#7A7268">비O·스프O → 젖음 0.99</text>
+<text x="550" y="258" font-size="10.5" fill="#7A7268">비X·스프O → 젖음 0.90</text>
+<text x="550" y="276" font-size="10.5" fill="#7A7268">비X·스프X → 젖음 0.01</text>
+<text x="200" y="300" text-anchor="middle" font-size="11" fill="#3B6EA5">잔디가 젖었다(증거) →</text>
+<text x="200" y="316" text-anchor="middle" font-size="11" fill="#3B6EA5">비? 스프링클러? 거꾸로 추론</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arb" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3B6EA5"/></marker></defs>
+<rect x="2" y="2" width="756" height="326" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">소리에서 뜻과 쓰임까지 — 위로 갈수록 기계에게 더 어렵다</text>
+<rect x="190.0" y="278" width="380" height="44" rx="8" fill="#FFFFFF" stroke="#7A7268" stroke-width="1.5"/><text x="380" y="305" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="204.0" y="305" font-size="13" fill="#2A2A2A" font-weight="bold">음운 — 소리</text>
+<text x="556.0" y="305" text-anchor="end" font-size="11" fill="#7A7268">p, a, n…</text>
+<rect x="190.0" y="226" width="380" height="44" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.5"/><text x="380" y="253" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="204.0" y="253" font-size="13" fill="#2A2A2A" font-weight="bold">형태소 — 단어 조각</text>
+<text x="556.0" y="253" text-anchor="end" font-size="11" fill="#7A7268">먹-, -었-, -다</text>
+<rect x="190.0" y="174" width="380" height="44" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.5"/><text x="380" y="201" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="204.0" y="201" font-size="13" fill="#2A2A2A" font-weight="bold">구문 — 문장 구조</text>
+<text x="556.0" y="201" text-anchor="end" font-size="11" fill="#7A7268">주어+목적어+서술어</text>
+<rect x="190.0" y="122" width="380" height="44" rx="8" fill="#FBEFDD" stroke="#4E7A51" stroke-width="2"/><text x="380" y="149" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="204.0" y="149" font-size="13" fill="#2A2A2A" font-weight="bold">의미 — 뜻</text>
+<text x="556.0" y="149" text-anchor="end" font-size="11" fill="#7A7268">무엇을 가리키나</text>
+<rect x="190.0" y="70" width="380" height="44" rx="8" fill="#FBEFDD" stroke="#B5651D" stroke-width="2"/><text x="380" y="97" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="204.0" y="97" font-size="13" fill="#2A2A2A" font-weight="bold">화용·담화 — 쓰임</text>
+<text x="556.0" y="97" text-anchor="end" font-size="11" fill="#7A7268">맥락이 정하는 속뜻</text>
+<line x1="164" y1="322" x2="164" y2="74" stroke="#B5495B" stroke-width="2" marker-end="url(#ar)"/>
+<text x="156.0" y="194.8" text-anchor="middle" font-size="11" fill="#B5495B" font-weight="bold" transform="rotate(-90 156.0 195)">어려움</text>
+<text x="380.0" y="316" text-anchor="middle" font-size="11.5" fill="#7A7268">23장 앞 절은 '뼈대'(형태·구문)까지, 이 절은 그 위 '뜻과 쓰임'(의미·화용)을 다룬다</text>
+</svg>
