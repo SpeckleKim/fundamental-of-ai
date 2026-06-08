@@ -18,6 +18,7 @@
   * [03-01 마음과 기계: 심신 문제](pages/03-01-mind-body.md)
   * [03-02 중국어 방 논변](pages/03-02-chinese-room.md)
   * [03-03 기호주의와 연결주의](pages/03-03-symbolism-connectionism.md)
+  * [03-04 의식과 감각질: 강한 AI의 마지막 물음](pages/03-04-consciousness-qualia.md)
 * [04. 인공지능의 분야 지도](pages/04-branches.md)
   * [04-01 AI의 하위 분야 한눈에 보기](pages/04-01-map.md)
   * [04-02 이 책의 길찾기](pages/04-02-how-to-read.md)
@@ -32,6 +33,7 @@
   * [06-01 명제 논리](pages/06-01-propositional-logic.md)
   * [06-02 술어 논리](pages/06-02-predicate-logic.md)
   * [06-03 추론 규칙](pages/06-03-inference-rules.md)
+  * [06-04 단일화와 분해: 자동 추론의 기계장치](pages/06-04-unification-resolution.md)
 * [07. 인지심리학](pages/07-psychology.md)
   * [07-01 사람은 어떻게 사고하는가](pages/07-01-how-people-think.md)
   * [07-02 기억과 학습](pages/07-02-memory-learning.md)
@@ -45,6 +47,7 @@
   * [09-01 계산이란 무엇인가: 튜링 기계](pages/09-01-turing-machine.md)
   * [09-02 자료구조 기초](pages/09-02-data-structures.md)
   * [09-03 복잡도와 알고리즘](pages/09-03-complexity.md)
+  * [09-04 풀 수 있는가, 빠른가: 계산가능성과 P 대 NP](pages/09-04-computability-pnp.md)
 
 ### Part 3. 탐색과 문제해결
 
@@ -112,6 +115,8 @@
   * [23-01 언어를 다루는 어려움](pages/23-01-difficulty-of-language.md)
   * [23-02 형태소 분석과 구문 분석](pages/23-02-morphology-syntax.md)
   * [23-03 통계적 언어 모델](pages/23-03-statistical-language-model.md)
+  * [23-04 형식문법과 구문분석](pages/23-04-formal-grammar.md)
+  * [23-05 기계번역과 챗봇](pages/23-05-machine-translation-chatbot.md)
 * [24. 지능형 에이전트](pages/24-agent.md)
   * [24-01 에이전트란 무엇인가](pages/24-01-what-is-agent.md)
   * [24-02 환경과 합리성](pages/24-02-environment-rationality.md)
@@ -154,3 +159,4 @@
 
 * [부록 A. 인공지능의 선구자들](pages/A1-pioneers.md)
 * [부록 B. 용어집](pages/B1-glossary.md)
+* [부록 C. 인공지능의 이정표가 된 시스템들](pages/C1-systems.md)
