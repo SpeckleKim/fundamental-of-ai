@@ -28,6 +28,10 @@ def convert(svg):
             l, t, r, b = bbox
             comp = comp.crop((max(0, l - pad), max(0, t - pad),
                               min(comp.width, r + pad), min(comp.height, b + pad)))
+        MAXW = 1100   # 화면 밖으로 넘치지 않게 폭 제한
+        if comp.width > MAXW:
+            h = round(comp.height * MAXW / comp.width)
+            comp = comp.resize((MAXW, h), Image.LANCZOS)
         comp.save(base + ".png", "PNG")
     print("OK:", base + ".png", Image.open(base + ".png").size)
     return True
