@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<rect x="2" y="2" width="756" height="326" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">데이터는 점(벡터), 변형은 손(행렬)</text>
+<rect x="34" y="58" width="330" height="246" rx="10" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.4"/>
+<text x="199" y="84" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold">벡터 = 공간 속 한 점</text>
+<line x1="80" y1="270" x2="330" y2="270" stroke="#7A7268" stroke-width="1"/>
+<line x1="80" y1="270" x2="80" y2="110" stroke="#7A7268" stroke-width="1"/>
+<circle cx="150" cy="160" r="6" fill="#B5651D"/><text x="160" y="164" font-size="12" fill="#2A2A2A">A</text>
+<circle cx="180" cy="185" r="6" fill="#B5651D"/><text x="190" y="189" font-size="12" fill="#2A2A2A">B</text>
+<circle cx="300" cy="140" r="6" fill="#3B6EA5"/><text x="310" y="144" font-size="12" fill="#2A2A2A">C</text>
+<text x="199" y="296" text-anchor="middle" font-size="11.5" fill="#7A7268">가까우면(A·B) 비슷, 멀면(C) 다르다</text>
+<rect x="396" y="58" width="330" height="246" rx="10" fill="#E9EEF5" stroke="#3B6EA5" stroke-width="1.6"/>
+<text x="561" y="84" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold">행렬 = 벡터를 변형하는 손</text>
+<rect x="430" y="150" width="80" height="40" rx="6" fill="#fff" stroke="#2A2A2A" stroke-width="1.4"/><text x="470" y="175" text-anchor="middle" font-size="12" fill="#2A2A2A">입력 벡터</text>
+<rect x="530" y="150" width="56" height="40" rx="6" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.4"/><text x="558" y="175" text-anchor="middle" font-size="13" fill="#B5651D" font-weight="bold">×W</text>
+<rect x="606" y="150" width="84" height="40" rx="6" fill="#fff" stroke="#2A2A2A" stroke-width="1.4"/><text x="648" y="175" text-anchor="middle" font-size="12" fill="#2A2A2A">새 벡터</text>
+<line x1="510" y1="170" x2="528" y2="170" stroke="#2A2A2A" stroke-width="1.6"/>
+<line x1="586" y1="170" x2="604" y2="170" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="561" y="232" text-anchor="middle" font-size="11.5" fill="#7A7268">신경망의 한 층 = 입력 벡터에 행렬 곱하기</text>
+</svg>
