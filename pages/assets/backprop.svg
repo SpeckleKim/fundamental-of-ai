@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arr" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B5495B"/></marker></defs>
+<rect x="2" y="2" width="756" height="316" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">앞으로 답을 내고(순전파), 오차를 거꾸로 흘려보내 가중치를 고친다(역전파)</text>
+<line x1="120" y1="112" x2="330" y2="90" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="112" x2="330" y2="134" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="112" x2="330" y2="178" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="112" x2="330" y2="222" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="156" x2="330" y2="90" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="156" x2="330" y2="134" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="156" x2="330" y2="178" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="156" x2="330" y2="222" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="200" x2="330" y2="90" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="200" x2="330" y2="134" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="200" x2="330" y2="178" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="120" y1="200" x2="330" y2="222" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="330" y1="90" x2="540" y2="134" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="330" y1="90" x2="540" y2="178" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="330" y1="134" x2="540" y2="134" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="330" y1="134" x2="540" y2="178" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="330" y1="178" x2="540" y2="134" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="330" y1="178" x2="540" y2="178" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="330" y1="222" x2="540" y2="134" stroke="#D8CDB4" stroke-width="1"/>
+<line x1="330" y1="222" x2="540" y2="178" stroke="#D8CDB4" stroke-width="1"/>
+<circle cx="120" cy="112.0" r="15" fill="#FFFFFF" stroke="#7A7268" stroke-width="1.8"/>
+<circle cx="120" cy="156.0" r="15" fill="#FFFFFF" stroke="#7A7268" stroke-width="1.8"/>
+<circle cx="120" cy="200.0" r="15" fill="#FFFFFF" stroke="#7A7268" stroke-width="1.8"/>
+<circle cx="330" cy="90" r="15" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.8"/>
+<circle cx="330" cy="134" r="15" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.8"/>
+<circle cx="330" cy="178" r="15" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.8"/>
+<circle cx="330" cy="222" r="15" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.8"/>
+<circle cx="540" cy="134" r="15" fill="#FFFFFF" stroke="#B5651D" stroke-width="1.8"/>
+<circle cx="540" cy="178" r="15" fill="#FFFFFF" stroke="#B5651D" stroke-width="1.8"/>
+<text x="120" y="78" text-anchor="middle" font-size="12" fill="#7A7268">입력층</text>
+<text x="330" y="78" text-anchor="middle" font-size="12" fill="#7A7268">은닉층</text>
+<text x="540" y="78" text-anchor="middle" font-size="12" fill="#7A7268">출력층</text>
+<line x1="120" y1="275" x2="540" y2="275" stroke="#4E7A51" stroke-width="2" marker-end="url(#ar)"/>
+<text x="330" y="268" text-anchor="middle" font-size="12" fill="#4E7A51" font-weight="bold">순전파: 입력 → 예측</text>
+<line x1="560" y1="298" x2="140" y2="298" stroke="#B5495B" stroke-width="2" marker-end="url(#arr)"/>
+<text x="350" y="312" text-anchor="middle" font-size="12" fill="#B5495B" font-weight="bold">역전파: 오차를 거슬러 보내 가중치 수정</text>
+</svg>

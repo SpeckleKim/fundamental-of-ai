@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arr" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B5495B"/></marker></defs>
+<rect x="2" y="2" width="756" height="316" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">층이 깊어질수록 점·선에서 부분으로, 부분에서 사물로 — 특징이 저절로 쌓인다</text>
+<rect x="30" y="120" width="120" height="90" rx="8" fill="#FFFFFF" stroke="#7A7268" stroke-width="1.8"/><text x="90" y="170" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="90" y="158" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">픽셀/입력</text>
+<text x="90" y="182" text-anchor="middle" font-size="11" fill="#7A7268">원본 이미지</text>
+<line x1="150" y1="165" x2="170" y2="165" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<rect x="170" y="120" width="120" height="90" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.8"/><text x="230" y="170" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="230" y="158" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">모서리·점</text>
+<text x="230" y="182" text-anchor="middle" font-size="11" fill="#7A7268">낮은 층</text>
+<line x1="290" y1="165" x2="310" y2="165" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<rect x="310" y="120" width="120" height="90" rx="8" fill="#FFFFFF" stroke="#4E7A51" stroke-width="1.8"/><text x="370" y="170" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="370" y="158" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">눈·코·바퀴</text>
+<text x="370" y="182" text-anchor="middle" font-size="11" fill="#7A7268">중간 층</text>
+<line x1="430" y1="165" x2="450" y2="165" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<rect x="450" y="120" width="120" height="90" rx="8" fill="#FFFFFF" stroke="#B5651D" stroke-width="1.8"/><text x="510" y="170" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="510" y="158" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">얼굴·자동차</text>
+<text x="510" y="182" text-anchor="middle" font-size="11" fill="#7A7268">높은 층</text>
+<line x1="570" y1="165" x2="590" y2="165" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<rect x="590" y="120" width="120" height="90" rx="8" fill="#FFFFFF" stroke="#B5495B" stroke-width="1.8"/><text x="650" y="170" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="650" y="158" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">"고양이"</text>
+<text x="650" y="182" text-anchor="middle" font-size="11" fill="#7A7268">출력</text>
+<text x="380.0" y="298" text-anchor="middle" font-size="11.5" fill="#7A7268">사람이 특징을 일일이 정해 주던 일을, 깊은 층들이 데이터로부터 스스로 알아낸다</text>
+</svg>

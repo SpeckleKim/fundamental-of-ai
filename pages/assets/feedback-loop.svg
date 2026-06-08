@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 290" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arr" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B5495B"/></marker></defs>
+<rect x="2" y="2" width="756" height="286" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">목표와 현재의 '차이'를 재서 스스로 바로잡는다 — 모든 자동 제어의 뿌리</text>
+<rect x="60" y="120" width="120" height="56" rx="8" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.6"/><text x="120" y="153" text-anchor="middle" font-size="12.5" fill="#2A2A2A" font-weight="bold">목표값</text>
+<circle cx="250" cy="148" r="22" fill="#FFFFFF" stroke="#B5651D" stroke-width="2"/>
+<text x="250" y="153" text-anchor="middle" font-size="18" fill="#B5651D" font-weight="bold">−</text>
+<text x="250" y="110" text-anchor="middle" font-size="11" fill="#7A7268">오차 = 목표 − 현재</text>
+<rect x="310" y="120" width="130" height="56" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.6"/><text x="375" y="153" text-anchor="middle" font-size="12.5" fill="#2A2A2A" font-weight="bold">제어기</text>
+<rect x="490" y="120" width="130" height="56" rx="8" fill="#FFFFFF" stroke="#4E7A51" stroke-width="1.6"/><text x="555" y="153" text-anchor="middle" font-size="12.5" fill="#2A2A2A" font-weight="bold">대상(시스템)</text>
+<line x1="180" y1="148" x2="228" y2="148" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<line x1="272" y1="148" x2="310" y2="148" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<line x1="440" y1="148" x2="490" y2="148" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<line x1="620" y1="148" x2="680" y2="148" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<text x="676" y="138" text-anchor="end" font-size="11" fill="#7A7268">출력</text>
+<path d="M650,176 L650,240 L250,240 L250,170" fill="none" stroke="#B5495B" stroke-width="1.8" stroke-dasharray="5,4" marker-end="url(#arr)"/>
+<text x="450" y="234" text-anchor="middle" font-size="11.5" fill="#B5495B" font-weight="bold">센서로 현재값을 되먹임(feedback)</text>
+<text x="380.0" y="280" text-anchor="middle" font-size="11" fill="#7A7268">에어컨·자동운전·항법장치… AI의 '목표를 향해 스스로 조정'이라는 발상의 조상</text>
+</svg>

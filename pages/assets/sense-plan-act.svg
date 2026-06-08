@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arr" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#B5495B"/></marker></defs>
+<rect x="2" y="2" width="756" height="296" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">보고(지각) → 짜고(계획) → 움직인다(행동) — 그런데 쉬운 게 가장 어렵다</text>
+<rect x="80" y="90" width="170" height="70" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.8"/><text x="165" y="130" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="165" y="120" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">지각</text>
+<text x="165" y="142" text-anchor="middle" font-size="11" fill="#7A7268">센서로 세상을 읽기</text>
+<rect x="290" y="90" width="170" height="70" rx="8" fill="#FFFFFF" stroke="#B5651D" stroke-width="1.8"/><text x="375" y="130" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="375" y="120" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">계획</text>
+<text x="375" y="142" text-anchor="middle" font-size="11" fill="#7A7268">행동 순서를 짜기</text>
+<rect x="500" y="90" width="170" height="70" rx="8" fill="#FFFFFF" stroke="#4E7A51" stroke-width="1.8"/><text x="585" y="130" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="585" y="120" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">행동</text>
+<text x="585" y="142" text-anchor="middle" font-size="11" fill="#7A7268">모터로 움직이기</text>
+<line x1="250" y1="125" x2="290" y2="125" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<line x1="460" y1="125" x2="500" y2="125" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<path d="M585,160 L585,200 L165,200 L165,160" fill="none" stroke="#7A7268" stroke-width="1.5" stroke-dasharray="5,4" marker-end="url(#ar)"/>
+<text x="380.0" y="194" text-anchor="middle" font-size="11" fill="#7A7268">움직인 결과를 다시 지각</text>
+<rect x="150" y="232" width="460" height="40" rx="8" fill="#F3E7D6" stroke="#B5651D" stroke-width="1.6"/><text x="380" y="257" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">모라벡의 역설: 어른의 체스보다 아기의 걷기·잡기가 더 어렵다</text>
+</svg>
