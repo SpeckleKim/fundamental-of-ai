@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<rect x="2" y="2" width="756" height="356" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="36" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">지능을 보는 두 관점 — 위에서 설계할까, 아래서 솟게 할까</text>
+<rect x="40" y="64" width="320" height="232" rx="10" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="200" y="96" text-anchor="middle" font-size="15" fill="#2A2A2A" font-weight="bold">기호주의</text>
+<text x="200" y="120" text-anchor="middle" font-size="12" fill="#B5651D">위에서 설계 (top-down)</text>
+<text x="64" y="154" font-size="12.5" fill="#2A2A2A">· 기호·규칙·논리로 다룬다</text>
+<text x="64" y="180" font-size="12.5" fill="#2A2A2A">· 명료하고 설명 가능</text>
+<text x="64" y="206" font-size="12.5" fill="#2A2A2A">· 약점: 상식·모호함에 약함</text>
+<text x="200" y="250" text-anchor="middle" font-size="12" fill="#7A7268">논리 · 탐색 · 전문가 시스템</text>
+<rect x="400" y="64" width="320" height="232" rx="10" fill="#E9EEF5" stroke="#3B6EA5" stroke-width="1.8"/>
+<text x="560" y="96" text-anchor="middle" font-size="15" fill="#2A2A2A" font-weight="bold">연결주의</text>
+<text x="560" y="120" text-anchor="middle" font-size="12" fill="#3B6EA5">아래서 창발 (bottom-up)</text>
+<text x="424" y="154" font-size="12.5" fill="#2A2A2A">· 연결망·가중치로 익힌다</text>
+<text x="424" y="180" font-size="12.5" fill="#2A2A2A">· 학습·잡음에 강함</text>
+<text x="424" y="206" font-size="12.5" fill="#2A2A2A">· 약점: 설명 어려움(블랙박스)</text>
+<text x="560" y="250" text-anchor="middle" font-size="12" fill="#7A7268">신경망 · 딥러닝</text>
+<text x="380.0" y="332" text-anchor="middle" font-size="13" fill="#2A2A2A">오늘날의 답: 경쟁이 아니라 <tspan fill="#B5651D" font-weight="bold">상호 보완</tspan> — 둘을 잇는 신경-기호(neuro-symbolic)</text>
+</svg>
