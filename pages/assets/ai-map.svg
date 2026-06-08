@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<rect x="2" y="2" width="756" height="396" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">기초 위에 다섯 능력이 서고, 그것이 모여 하나의 에이전트가 된다</text>
+<rect x="250" y="58" width="260" height="46" rx="10" fill="#B5651D" stroke="#2A2A2A" stroke-width="2"/>
+<text x="380" y="86" text-anchor="middle" font-size="14" fill="#fff" font-weight="bold">지능형 에이전트 (통합 주체)</text>
+<rect x="40" y="180" width="128" height="50" rx="8" fill="#FFFFFF" stroke="#B5651D" stroke-width="1.8"/>
+<text x="104" y="210" text-anchor="middle" font-size="13.5" fill="#2A2A2A">탐색</text>
+<line x1="104" y1="180" x2="380" y2="104" stroke="#C9BFA8" stroke-width="1.3"/>
+<rect x="178" y="180" width="128" height="50" rx="8" fill="#FFFFFF" stroke="#B5651D" stroke-width="1.8"/>
+<text x="242" y="210" text-anchor="middle" font-size="13.5" fill="#2A2A2A">지식·추론</text>
+<line x1="242" y1="180" x2="380" y2="104" stroke="#C9BFA8" stroke-width="1.3"/>
+<rect x="316" y="180" width="128" height="50" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.8"/>
+<text x="380" y="210" text-anchor="middle" font-size="13.5" fill="#2A2A2A">학습</text>
+<line x1="380" y1="180" x2="380" y2="104" stroke="#C9BFA8" stroke-width="1.3"/>
+<rect x="454" y="180" width="128" height="50" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.8"/>
+<text x="518" y="210" text-anchor="middle" font-size="13.5" fill="#2A2A2A">언어</text>
+<line x1="518" y1="180" x2="380" y2="104" stroke="#C9BFA8" stroke-width="1.3"/>
+<rect x="592" y="180" width="128" height="50" rx="8" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="1.8"/>
+<text x="656" y="210" text-anchor="middle" font-size="13.5" fill="#2A2A2A">지각·행동</text>
+<line x1="656" y1="180" x2="380" y2="104" stroke="#C9BFA8" stroke-width="1.3"/>
+<rect x="60" y="300" width="640" height="56" rx="10" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="380" y="326" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">기초 체력</text>
+<text x="380" y="346" text-anchor="middle" font-size="12.5" fill="#7A7268">수학 · 논리 · 인지심리 · 뇌와 신경 · 계산</text>
+<line x1="104" y1="300" x2="104" y2="230" stroke="#C9BFA8" stroke-width="1.3"/>
+<line x1="242" y1="300" x2="242" y2="230" stroke="#C9BFA8" stroke-width="1.3"/>
+<line x1="380" y1="300" x2="380" y2="230" stroke="#C9BFA8" stroke-width="1.3"/>
+<line x1="518" y1="300" x2="518" y2="230" stroke="#C9BFA8" stroke-width="1.3"/>
+<line x1="656" y1="300" x2="656" y2="230" stroke="#C9BFA8" stroke-width="1.3"/>
+<text x="125" y="166" text-anchor="middle" font-size="11.5" fill="#B5651D">기호주의</text>
+<text x="600" y="166" text-anchor="middle" font-size="11.5" fill="#3B6EA5">연결주의</text>
+<text x="380.0" y="384" text-anchor="middle" font-size="12" fill="#7A7268">그리고 7부의 도구(LISP·Prolog)로 이 개념들을 직접 손에 쥔다</text>
+</svg>
