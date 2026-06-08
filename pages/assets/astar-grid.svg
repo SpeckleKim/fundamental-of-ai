@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 632 498" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<rect x="2" y="2" width="628" height="494" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="316.0" y="40" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">맵을 격자로 나누고, 칸마다 f=g+h로 최단 경로를 찾는다</text>
+<rect x="64" y="72" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="120" y="72" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="176" y="72" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="232" y="72" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="288" y="72" width="56" height="56" fill="#2A2A2A" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="344" y="72" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="400" y="72" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="456" y="72" width="56" height="56" fill="#F3E7D6" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="512" y="72" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="64" y="128" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="120" y="128" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="176" y="128" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="232" y="128" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="288" y="128" width="56" height="56" fill="#2A2A2A" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="344" y="128" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="400" y="128" width="56" height="56" fill="#F3E7D6" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="456" y="128" width="56" height="56" fill="#F3E7D6" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="512" y="128" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="64" y="184" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="120" y="184" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="176" y="184" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="232" y="184" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="288" y="184" width="56" height="56" fill="#2A2A2A" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="344" y="184" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="400" y="184" width="56" height="56" fill="#F3E7D6" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="456" y="184" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="512" y="184" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="64" y="240" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="120" y="240" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="176" y="240" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="232" y="240" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="288" y="240" width="56" height="56" fill="#2A2A2A" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="344" y="240" width="56" height="56" fill="#F3E7D6" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="400" y="240" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="456" y="240" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="512" y="240" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="64" y="296" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="120" y="296" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="176" y="296" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="232" y="296" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="288" y="296" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="344" y="296" width="56" height="56" fill="#F3E7D6" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="400" y="296" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="456" y="296" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="512" y="296" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="64" y="352" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="120" y="352" width="56" height="56" fill="#F3E7D6" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="176" y="352" width="56" height="56" fill="#F3E7D6" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="232" y="352" width="56" height="56" fill="#F3E7D6" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="288" y="352" width="56" height="56" fill="#F3E7D6" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="344" y="352" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="400" y="352" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="456" y="352" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<rect x="512" y="352" width="56" height="56" fill="#FFFFFF" stroke="#D8CEB6" stroke-width="1"/>
+<polyline points="148.0,380.0 204.0,380.0 260.0,380.0 316.0,380.0 372.0,324.0 372.0,268.0 428.0,212.0 428.0,156.0 484.0,156.0 484.0,100.0" fill="none" stroke="#B5651D" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="148.0" cy="380.0" r="20" fill="#B5651D" stroke="#2A2A2A" stroke-width="1.6"/><text x="148.0" y="385.0" text-anchor="middle" font-size="15" fill="#fff">S</text>
+<circle cx="484.0" cy="100.0" r="20" fill="#3B6EA5" stroke="#2A2A2A" stroke-width="1.6"/><text x="484.0" y="105.0" text-anchor="middle" font-size="15" fill="#fff">G</text>
+<text x="64" y="442" font-size="13" fill="#2A2A2A">■ 벽(못 지나감)   ■ 찾은 경로   <tspan fill="#B5651D">S</tspan> 출발   <tspan fill="#3B6EA5">G</tspan> 목표</text>
+<text x="64" y="466" font-size="13" fill="#7A7268">g = S에서 여기까지 온 거리 · h = 여기서 G까지 직선 어림 · f = g + h (작을수록 먼저 살핀다)</text>
+</svg>
