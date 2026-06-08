@@ -61,17 +61,7 @@ CFG는 촘스키 계층(Chomsky hierarchy)에서 Type-2 자리에 앉는다. 이
 
 어느 쪽으로 가든 막다른 길에 다다르면 왔던 자리로 되돌아가(backtracking) 다른 가지를 더듬어 본다 — 3부에서 본 탐색 트리 그대로다. 그렇게 길을 다 더듬은 끝에 손에 쥐게 되는 것이 **파스 트리(parse tree)**다. "The man hit the ball"이라면 이런 모양으로 자라난다.
 
-```
-            Sentence
-           /        \
-         NP          VP
-        /  \       /    \
-       T    N    Verb    NP
-       |    |     |     /  \
-      the  man   hit   T    N
-                       |    |
-                      the  ball
-```
+!["the man hit the ball"의 파스 트리 — 문장이 NP·VP로, 다시 관사·명사·동사로 쪼개진다](assets/parse-tree.png)
 
 그런데 한 문장이 *둘 이상*의 파스 트리를 거느리게 되는 일이 있다. 바로 그것이 23-01에서 본 구조적 모호성이다. 규칙만으로는 어느 트리가 옳은지 끝내 가려내지 못하고, 그래서 다음 단계로 통계적 방법(23-03)의 손을 빌려야 한다.
 

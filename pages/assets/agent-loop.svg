@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arb" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3B6EA5"/></marker></defs>
+<rect x="2" y="2" width="756" height="256" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">센서로 인식하고, 두뇌로 판단하고, 액추에이터로 행동한다 — 환경과의 끝없는 고리</text>
+<rect x="34" y="96" width="120" height="70" rx="10" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.5"/>
+<text x="94" y="137" text-anchor="middle" font-size="15" fill="#2A2A2A" font-weight="bold">환경</text>
+<rect x="214" y="74" width="412" height="114" rx="12" fill="#FFFFFF" stroke="#B5651D" stroke-width="2"/>
+<text x="420" y="98" text-anchor="middle" font-size="13" fill="#B5651D" font-weight="bold">에이전트</text>
+<rect x="238" y="118" width="108" height="46" rx="8" fill="#E9EEF5" stroke="#3B6EA5" stroke-width="1.6"/><text x="292" y="146" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold">센서</text>
+<rect x="366" y="118" width="108" height="46" rx="8" fill="#F3E7D6" stroke="#B5651D" stroke-width="1.6"/><text x="420" y="146" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold">두뇌</text>
+<rect x="494" y="118" width="108" height="46" rx="8" fill="#E9EEF5" stroke="#3B6EA5" stroke-width="1.6"/><text x="548" y="146" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold">액추에이터</text>
+<line x1="346" y1="141" x2="366" y2="141" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<line x1="474" y1="141" x2="494" y2="141" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<text x="356" y="132" text-anchor="middle" font-size="10.5" fill="#7A7268">판단</text>
+<text x="484" y="132" text-anchor="middle" font-size="10.5" fill="#7A7268">행동</text>
+<line x1="154" y1="131" x2="238" y2="131" stroke="#3B6EA5" stroke-width="2" marker-end="url(#ar)"/>
+<text x="196" y="122" text-anchor="middle" font-size="11.5" fill="#3B6EA5">인식</text>
+<rect x="686" y="96" width="40" height="70" rx="8" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.5"/>
+<text x="706" y="125" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">환</text><text x="706" y="143" text-anchor="middle" font-size="12" fill="#2A2A2A" font-weight="bold">경</text>
+<line x1="602" y1="131" x2="686" y2="131" stroke="#3B6EA5" stroke-width="2" marker-end="url(#ar)"/>
+<text x="644" y="122" text-anchor="middle" font-size="11.5" fill="#3B6EA5">영향</text>
+<path d="M706,166 L706,212 L94,212 L94,166" fill="none" stroke="#7A7268" stroke-width="1.4" stroke-dasharray="5,4" marker-end="url(#ar)"/>
+<text x="400" y="228" text-anchor="middle" font-size="11.5" fill="#7A7268">행동이 환경을 바꾸고, 바뀐 환경을 다시 인식한다</text>
+</svg>

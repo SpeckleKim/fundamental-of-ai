@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arb" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3B6EA5"/></marker></defs>
+<rect x="2" y="2" width="756" height="296" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">아는 것(지식베이스)과 굴리는 법(추론엔진)을 나눈 두 기둥</text>
+<rect x="290" y="64" width="180" height="42" rx="8" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.6"/><text x="380" y="90" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">사용자 질문 / 사실</text>
+<line x1="380" y1="106" x2="380" y2="134" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<rect x="180" y="134" width="200" height="86" rx="8" fill="#FFFFFF" stroke="#B5651D" stroke-width="2"/><text x="280" y="182" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="280" y="170" text-anchor="middle" font-size="14.5" fill="#2A2A2A" font-weight="bold">추론엔진</text>
+<text x="280" y="194" text-anchor="middle" font-size="12" fill="#7A7268">전향 / 후향 추론</text>
+<rect x="480" y="134" width="200" height="86" rx="8" fill="#E9EEF5" stroke="#3B6EA5" stroke-width="2"/><text x="580" y="182" text-anchor="middle" font-size="13.5" fill="#2A2A2A" font-weight="bold"></text>
+<text x="580" y="170" text-anchor="middle" font-size="14.5" fill="#2A2A2A" font-weight="bold">지식베이스</text>
+<text x="580" y="194" text-anchor="middle" font-size="12" fill="#7A7268">사실 + 규칙(IF–THEN)</text>
+<line x1="380" y1="166" x2="480" y2="166" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)" marker-start="url(#ar)"/>
+<text x="430" y="156" text-anchor="middle" font-size="11.5" fill="#B5651D">참조</text>
+<line x1="280" y1="220" x2="280" y2="252" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<rect x="190" y="252" width="180" height="36" rx="8" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.6"/><text x="280" y="275" text-anchor="middle" font-size="12.5" fill="#2A2A2A" font-weight="bold">결론 / 설명</text>
+<text x="580" y="266" text-anchor="middle" font-size="11.5" fill="#7A7268">전문가의 머릿속을 둘로 갈라 기계에 옮긴 꼴</text>
+</svg>

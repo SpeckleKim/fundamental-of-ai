@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker><marker id="arb" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#3B6EA5"/></marker></defs>
+<rect x="2" y="2" width="756" height="296" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">입력에 가중치를 곱해 더하고, 문턱을 넘으면 1을 낸다 — 뉴런 한 개의 흉내</text>
+<circle cx="120" cy="90" r="22" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="120" y="95" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">x₁</text>
+<line x1="142" y1="90" x2="386" y2="150" stroke="#2A2A2A" stroke-width="1.7" marker-end="url(#ar)"/>
+<rect x="248.0" y="98.0" width="34" height="17" rx="5" fill="#FBF7EF"/><text x="265.0" y="111.0" text-anchor="middle" font-size="11.5" fill="#B5651D" font-weight="bold">w₁</text>
+<circle cx="120" cy="150" r="22" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="120" y="155" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">x₂</text>
+<line x1="142" y1="150" x2="386" y2="150" stroke="#2A2A2A" stroke-width="1.7" marker-end="url(#ar)"/>
+<rect x="248.0" y="128.0" width="34" height="17" rx="5" fill="#FBF7EF"/><text x="265.0" y="141.0" text-anchor="middle" font-size="11.5" fill="#B5651D" font-weight="bold">w₂</text>
+<circle cx="120" cy="210" r="22" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="120" y="215" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">x₃</text>
+<line x1="142" y1="210" x2="386" y2="150" stroke="#2A2A2A" stroke-width="1.7" marker-end="url(#ar)"/>
+<rect x="248.0" y="158.0" width="34" height="17" rx="5" fill="#FBF7EF"/><text x="265.0" y="171.0" text-anchor="middle" font-size="11.5" fill="#B5651D" font-weight="bold">w₃</text>
+<circle cx="420" cy="150" r="34" fill="#F3E7D6" stroke="#B5651D" stroke-width="1.9"/>
+<text x="420" y="158" text-anchor="middle" font-size="22" fill="#B5651D" font-weight="bold">Σ</text>
+<text x="420" y="204" text-anchor="middle" font-size="11.5" fill="#7A7268">가중합</text>
+<rect x="510" y="124" width="120" height="52" rx="8" fill="#E9EEF5" stroke="#3B6EA5" stroke-width="1.6"/><text x="570" y="155" text-anchor="middle" font-size="12.5" fill="#2A2A2A" font-weight="bold">문턱 넘으면 1</text>
+<line x1="454" y1="150" x2="510" y2="150" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<circle cx="690" cy="150" r="22" fill="#FFFFFF" stroke="#2A2A2A" stroke-width="1.6"/>
+<text x="690" y="155" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">출력</text>
+<line x1="630" y1="150" x2="668" y2="150" stroke="#2A2A2A" stroke-width="1.8" marker-end="url(#ar)"/>
+<text x="380.0" y="248" text-anchor="middle" font-size="12" fill="#7A7268">학습 = 답이 틀리면 가중치 w를 조금씩 고쳐 문턱을 다시 맞추는 일</text>
+<text x="380.0" y="270" text-anchor="middle" font-size="11.5" fill="#7A7268">한계: 직선 하나로 가르는 것만 가능 — XOR는 풀지 못한다</text>
+</svg>
