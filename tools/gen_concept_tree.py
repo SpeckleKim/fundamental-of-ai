@@ -7,7 +7,7 @@ import os
 A = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "pages", "assets")
 INK="#2A2A2A"; ACC="#B5651D"; PAPER="#FBF7EF"; BORD="#E7DFCB"; GRAY="#7A7268"; BAND="#F3E7D6"
 FONT="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif"
-W,H=760,720
+W,H=760,730
 SX=150   # 척추 x 중심
 
 # 척추(위→아래)
@@ -33,7 +33,6 @@ ref.update({lab:(x,y) for lab,x,y in [(b[0],b[1],b[2]) for b in branch]})
 
 s=[f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" font-family="{FONT}">']
 s.append(f'<rect x="2" y="2" width="{W-4}" height="{H-4}" rx="16" fill="{PAPER}" stroke="{BORD}"/>')
-s.append(f'<text x="{W/2}" y="32" text-anchor="middle" font-size="15" fill="{INK}" font-weight="bold">인공지능이라는 한 그루 나무</text>')
 
 # 척추 간선(굵은 강조)
 for i in range(len(spine)-1):
@@ -58,10 +57,13 @@ for lab,x,y,_ in branch: s.append(node(lab,x,y,"leaf"))
 # 척추 노드
 for i,(lab,y) in enumerate(spine):
     s.append(node(lab,SX,y,"llm" if lab=="LLM" else "spine"))
-# LLM 주석
-s.append(f'<text x="{SX+70}" y="605" font-size="12" fill="{ACC}">← 우리가 흔히 보는 표면</text>')
-# 하단 메시지
-s.append(f'<text x="{W/2}" y="{H-22}" text-anchor="middle" font-size="13" fill="{INK}">LLM은 이 나무의 한 잎새다 — 뿌리와 줄기를 알아야 비로소 그 잎이 보인다</text>')
+# LLM 하위 모델들 (잎새 끝의 실제 제품들)
+models=[("ChatGPT",165,688),("Claude",300,688),("Gemini",420,688),("Grok",525,688)]
+lx,ly=pos["spine6"]
+for lab,x,y in models:
+    s.append(f'<line x1="{lx}" y1="{ly+16}" x2="{x}" y2="{y-16}" stroke="#C9BFA8" stroke-width="1.6"/>')
+for lab,x,y in models:
+    s.append(node(lab,x,y,"leaf"))
 s.append('</svg>')
 open(os.path.join(A,"concept-tree.svg"),"w",encoding="utf-8").write("\n".join(s))
 print("concept-tree.svg (세로 척추형, 계층 수정)")

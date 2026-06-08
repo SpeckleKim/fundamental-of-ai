@@ -1,6 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 720" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
-<rect x="2" y="2" width="756" height="716" rx="16" fill="#FBF7EF" stroke="#E7DFCB"/>
-<text x="380.0" y="32" text-anchor="middle" font-size="15" fill="#2A2A2A" font-weight="bold">인공지능이라는 한 그루 나무</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 730" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<rect x="2" y="2" width="756" height="726" rx="16" fill="#FBF7EF" stroke="#E7DFCB"/>
 <line x1="150" y1="76" x2="150" y2="134" stroke="#B5651D" stroke-width="3.6"/>
 <line x1="150" y1="166" x2="150" y2="224" stroke="#B5651D" stroke-width="3.6"/>
 <line x1="150" y1="256" x2="150" y2="314" stroke="#B5651D" stroke-width="3.6"/>
@@ -30,6 +29,12 @@
 <rect x="55.5" y="404.0" width="189" height="32" rx="8" fill="#F3E7D6" stroke="#B5651D" stroke-width="2"/><text x="150" y="425" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">자연어처리 (NLP)</text>
 <rect x="25.5" y="494.0" width="249" height="32" rx="8" fill="#F3E7D6" stroke="#B5651D" stroke-width="2"/><text x="150" y="515" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">어텐션 (Attention)</text>
 <rect x="115.5" y="584.0" width="69" height="32" rx="8" fill="#B5651D" stroke="#2A2A2A" stroke-width="2"/><text x="150" y="605" text-anchor="middle" font-size="13" fill="#fff" font-weight="bold">LLM</text>
-<text x="220" y="605" font-size="12" fill="#B5651D">← 우리가 흔히 보는 표면</text>
-<text x="380.0" y="698" text-anchor="middle" font-size="13" fill="#2A2A2A">LLM은 이 나무의 한 잎새다 — 뿌리와 줄기를 알아야 비로소 그 잎이 보인다</text>
+<line x1="150" y1="616" x2="165" y2="672" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="150" y1="616" x2="300" y2="672" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="150" y1="616" x2="420" y2="672" stroke="#C9BFA8" stroke-width="1.6"/>
+<line x1="150" y1="616" x2="525" y2="672" stroke="#C9BFA8" stroke-width="1.6"/>
+<rect x="100.5" y="672.0" width="129" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/><text x="165" y="693" text-anchor="middle" font-size="13" fill="#7A7268">ChatGPT</text>
+<rect x="243.0" y="672.0" width="114" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/><text x="300" y="693" text-anchor="middle" font-size="13" fill="#7A7268">Claude</text>
+<rect x="363.0" y="672.0" width="114" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/><text x="420" y="693" text-anchor="middle" font-size="13" fill="#7A7268">Gemini</text>
+<rect x="483.0" y="672.0" width="84" height="32" rx="8" fill="#FFFFFF" stroke="#C9BFA8" stroke-width="1.4"/><text x="525" y="693" text-anchor="middle" font-size="13" fill="#7A7268">Grok</text>
 </svg>
