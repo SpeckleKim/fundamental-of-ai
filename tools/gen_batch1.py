@@ -44,10 +44,10 @@ s.append(f'<text x="{W/2}" y="{H-18}" text-anchor="middle" font-size="12" fill="
 save("complexity-bigo.svg",s)
 
 # ── 2. 상태공간/탐색 트리 (10-01) ──
-W,H=760,330
+W,H=760,360
 s=head(W,H,"문제를 \'상태\'와 \'연산자\'로 바꾸면, 푸는 일은 곧 길찾기가 된다")
 # 8-퍼즐 미니 보드 그리기
-def puzzle(cx,cy,grid,cell=22,hl=False):
+def puzzle(cx,cy,grid,cell=20,hl=False):
     out=[]; n=3; x0=cx-n*cell/2; y0=cy-n*cell/2
     out.append(f'<rect x="{x0-3}" y="{y0-3}" width="{n*cell+6}" height="{n*cell+6}" rx="5" fill="{BAND if hl else WHT}" stroke="{ACC if hl else INK}" stroke-width="{1.8 if hl else 1.2}"/>')
     for r in range(n):
@@ -59,20 +59,20 @@ def puzzle(cx,cy,grid,cell=22,hl=False):
     return out
 start=[1,2,3,4,0,5,6,7,8]
 ch1=[1,2,3,0,4,5,6,7,8]; ch2=[1,2,3,4,7,5,6,0,8]; ch3=[1,2,3,4,5,0,6,7,8]
-s+=puzzle(140,150,start,hl=True); s.append(f'<text x="140" y="210" text-anchor="middle" font-size="11.5" fill="{ACC}" font-weight="bold">시작 상태</text>')
-for (g,cx) in [(ch1,360),(ch2,400),(ch3,440)]:
-    pass
-# 가지 3개
-kids=[(330,90,ch1,"빈칸 ←"),(330,150,ch2,"빈칸 ↓"),(330,235,ch3,"빈칸 →")]
+SY=180
+s+=puzzle(130,SY,start,hl=True); s.append(f'<text x="130" y="{SY+52}" text-anchor="middle" font-size="11.5" fill="{ACC}" font-weight="bold">시작 상태</text>')
+# 가지 3개 (세로로 충분히 띄움)
+kids=[(360,95,ch1,"빈칸 ←"),(360,185,ch2,"빈칸 ↓"),(360,275,ch3,"빈칸 →")]
 for cx,cy,g,lab in kids:
-    s.append(line(178,150,cx-44,cy,GRAY,1.4))
+    s.append(line(168,SY,cx-40,cy,GRAY,1.4))
     s+=puzzle(cx,cy,g)
-    s.append(f'<text x="{cx}" y="{cy+44}" text-anchor="middle" font-size="10.5" fill="{GRAY}">{lab}</text>')
+    s.append(f'<text x="{cx+52}" y="{cy+4}" text-anchor="middle" font-size="10.5" fill="{GRAY}">{lab}</text>')
 # 목표 표시(오른쪽)
 goal=[1,2,3,4,5,6,7,8,0]
-s+=puzzle(620,150,goal,hl=True); s.append(f'<text x="620" y="210" text-anchor="middle" font-size="11.5" fill="{GRN}" font-weight="bold">목표 상태</text>')
-s.append(line(452,90,560,150,GRAY,1.2,dash="4,4")); s.append(line(452,235,560,150,GRAY,1.2,dash="4,4"))
-s.append(f'<text x="490" y="120" text-anchor="middle" font-size="11" fill="{GRAY}">…연산자를 거듭 적용…</text>')
+s+=puzzle(630,SY,goal,hl=True); s.append(f'<text x="630" y="{SY+52}" text-anchor="middle" font-size="11.5" fill="{GRN}" font-weight="bold">목표 상태</text>')
+s.append(line(440,95,560,SY,GRAY,1.2,dash="4,4")); s.append(line(440,275,560,SY,GRAY,1.2,dash="4,4"))
+s.append(f'<text x="500" y="150" text-anchor="middle" font-size="11" fill="{GRAY}">…연산자를</text>')
+s.append(f'<text x="500" y="166" text-anchor="middle" font-size="11" fill="{GRAY}">거듭 적용…</text>')
 s.append(f'<text x="{W/2}" y="{H-16}" text-anchor="middle" font-size="12" fill="{GRAY}">상태(보드 배치) · 연산자(빈칸 밀기) · 목표(정렬). 시작에서 목표까지의 경로를 찾는 일</text>')
 save("state-space.svg",s)
 

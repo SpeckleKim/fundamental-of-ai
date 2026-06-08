@@ -1,36 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 390" font-family="'Helvetica Neue', Arial, 'AppleSDGothicNeo', sans-serif">
 <defs><marker id="ar" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2A2A2A"/></marker></defs>
-<rect x="2" y="2" width="756" height="356" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
+<rect x="2" y="2" width="756" height="386" rx="14" fill="#FBF7EF" stroke="#E7DFCB"/>
 <text x="380.0" y="34" text-anchor="middle" font-size="14" fill="#7A7268" font-style="italic">마음을 함께 묻는 여섯 학문이 한자리에 모였다 — 그 한가운데서 AI가 태어났다</text>
-<line x1="380" y1="87" x2="482" y2="146" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="380" y1="87" x2="482" y2="264" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="380" y1="87" x2="380" y2="323" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="380" y1="87" x2="278" y2="264" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="380" y1="87" x2="278" y2="146" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="482" y1="146" x2="482" y2="264" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="482" y1="146" x2="380" y2="323" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="482" y1="146" x2="278" y2="264" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="482" y1="146" x2="278" y2="146" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="482" y1="264" x2="380" y2="323" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="482" y1="264" x2="278" y2="264" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="482" y1="264" x2="278" y2="146" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="380" y1="323" x2="278" y2="264" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="380" y1="323" x2="278" y2="146" stroke="#D8CDB4" stroke-width="0.9"/>
-<line x1="278" y1="264" x2="278" y2="146" stroke="#D8CDB4" stroke-width="0.9"/>
-<circle cx="380" cy="205" r="46" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.8"/>
-<text x="380" y="203" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">인지과학</text>
-<text x="380" y="221" text-anchor="middle" font-size="10.5" fill="#7A7268">마음의 과학</text>
-<ellipse cx="380" cy="87" rx="52" ry="30" fill="#FFFFFF" stroke="#B5651D" stroke-width="2"/>
-<text x="380" y="92" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">심리학</text>
-<ellipse cx="482" cy="146" rx="52" ry="30" fill="#FFFFFF" stroke="#B5495B" stroke-width="2"/>
-<text x="482" y="151" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">인공지능</text>
-<ellipse cx="482" cy="264" rx="52" ry="30" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="2"/>
-<text x="482" y="269" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">언어학</text>
-<ellipse cx="380" cy="323" rx="52" ry="30" fill="#FFFFFF" stroke="#4E7A51" stroke-width="2"/>
-<text x="380" y="328" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">신경과학</text>
-<ellipse cx="278" cy="264" rx="52" ry="30" fill="#FFFFFF" stroke="#B5651D" stroke-width="2"/>
-<text x="278" y="269" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">철학</text>
-<ellipse cx="278" cy="146" rx="52" ry="30" fill="#FFFFFF" stroke="#7A7268" stroke-width="2"/>
-<text x="278" y="151" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">인류학</text>
-<text x="380.0" y="346" text-anchor="middle" font-size="11.5" fill="#7A7268">'사람은 어떻게 생각하는가'라는 한 물음을 여섯 갈래가 함께 파고든다</text>
+<line x1="380" y1="84" x2="480" y2="142" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="380" y1="84" x2="480" y2="258" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="380" y1="84" x2="380" y2="316" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="380" y1="84" x2="280" y2="258" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="380" y1="84" x2="280" y2="142" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="480" y1="142" x2="480" y2="258" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="480" y1="142" x2="380" y2="316" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="480" y1="142" x2="280" y2="258" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="480" y1="142" x2="280" y2="142" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="480" y1="258" x2="380" y2="316" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="480" y1="258" x2="280" y2="258" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="480" y1="258" x2="280" y2="142" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="380" y1="316" x2="280" y2="258" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="380" y1="316" x2="280" y2="142" stroke="#D8CDB4" stroke-width="0.9"/>
+<line x1="280" y1="258" x2="280" y2="142" stroke="#D8CDB4" stroke-width="0.9"/>
+<circle cx="380" cy="200" r="46" fill="#F3E7D6" stroke="#2A2A2A" stroke-width="1.8"/>
+<text x="380" y="198" text-anchor="middle" font-size="14" fill="#2A2A2A" font-weight="bold">인지과학</text>
+<text x="380" y="216" text-anchor="middle" font-size="10.5" fill="#7A7268">마음의 과학</text>
+<ellipse cx="380" cy="84" rx="52" ry="30" fill="#FFFFFF" stroke="#B5651D" stroke-width="2"/>
+<text x="380" y="89" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">심리학</text>
+<ellipse cx="480" cy="142" rx="52" ry="30" fill="#FFFFFF" stroke="#B5495B" stroke-width="2"/>
+<text x="480" y="147" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">인공지능</text>
+<ellipse cx="480" cy="258" rx="52" ry="30" fill="#FFFFFF" stroke="#3B6EA5" stroke-width="2"/>
+<text x="480" y="263" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">언어학</text>
+<ellipse cx="380" cy="316" rx="52" ry="30" fill="#FFFFFF" stroke="#4E7A51" stroke-width="2"/>
+<text x="380" y="321" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">신경과학</text>
+<ellipse cx="280" cy="258" rx="52" ry="30" fill="#FFFFFF" stroke="#B5651D" stroke-width="2"/>
+<text x="280" y="263" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">철학</text>
+<ellipse cx="280" cy="142" rx="52" ry="30" fill="#FFFFFF" stroke="#7A7268" stroke-width="2"/>
+<text x="280" y="147" text-anchor="middle" font-size="13" fill="#2A2A2A" font-weight="bold">인류학</text>
+<text x="380.0" y="376" text-anchor="middle" font-size="11.5" fill="#7A7268">'사람은 어떻게 생각하는가'라는 한 물음을 여섯 갈래가 함께 파고든다</text>
 </svg>

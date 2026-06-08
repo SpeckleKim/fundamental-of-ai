@@ -72,9 +72,9 @@ s.append(f'<text x="{W/2}" y="{H-12}" text-anchor="middle" font-size="11.5" fill
 save("prolog-resolution.svg",s)
 
 # ── 3. 인지과학 학제간 육각형 ──
-W,H=760,360
+W,H=760,390
 s=head(W,H,"마음을 함께 묻는 여섯 학문이 한자리에 모였다 — 그 한가운데서 AI가 태어났다")
-cx,cy,r=380,205,118
+cx,cy,r=380,200,116
 fields=[("심리학",ACC),("인공지능",RED),("언어학",BLU),("신경과학",GRN),("철학",ACC),("인류학",GRAY)]
 pts=[]
 for i in range(6):
